@@ -1,1 +1,85 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJEYWlseSB0cmFja2VyOiByZS1tZWFzdXJlIHRoZSBsYXN0IDI0IGhvdXJzIGFuZCBhcHBlbmQgb25lIHJvdyB0byBkYXRhL2hpc3RvcnkvdHJhY2tlci5qc29ubC4KClRoaXMgZG9lcyBOT1QgdG91Y2ggdGhlIGNvbW1pdHRlZCAzMC1kYXkgc25hcHNob3QgKGRhdGEvcmF3LCBkYXRhL3Jhd19iLCBkYXRhL3B1YmxpYykgb3IgaXRzIHZlcmRpY3RzLgpJdCBkcmF3cyBhIHNtYWxsIGZyZXNoIHNhbXBsZSAoOTYgc3RyYXRhIG9mIDEsNTAwIGJsb2NrcyA9IGFib3V0IDI0IGhvdXJzLCBvbmUgNDAtYmxvY2sgd2luZG93IGVhY2gsCnNlZWQgPSB0aGUgVVRDIGRhdGUgYXMgWVlZWU1NREQpLCB2YWx1ZXMgaXQgd2l0aCBhIGZyZXNobHkgZmV0Y2hlZCAxQ2xpY2sgcHJpY2UgbGlzdCwgYW5kIHJlY29yZHMgdGhlCnNhbWUgZmlndXJlcyB0aGUgc2l4IHRlc3RzIHVzZSwgc28gdGhlIGRhc2hib2FyZCBjYW4gc2hvdyB3aGV0aGVyIHRoZXkgbW92ZSBhZnRlciB0aGUgc25hcHNob3QuCkFib3V0IDYtMTAgbWludXRlcyBvbiB0aGUga2V5bGVzcyBGYXN0TkVBUiBlbmRwb2ludC4gU2V0IEZBU1RORUFSX0FQSV9LRVkgdG8gZ28gZmFzdGVyLgoKVXNhZ2U6IHB5dGhvbjMgc2NyaXB0cy90cmFjay5weSBbLS1zdHJhdGEgOTZdIFstLWtlZXBdCiIiIgppbXBvcnQgYXJncGFyc2UsIGRhdGV0aW1lIGFzIGR0LCBqc29uLCBvcywgc2h1dGlsLCBzdWJwcm9jZXNzLCBzeXMsIHRpbWUKCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKUk9PVCA9IG9zLnBhdGguZGlybmFtZShIRVJFKQpzeXMucGF0aC5pbnNlcnQoMCwgSEVSRSkKSElTVCA9IG9zLnBhdGguam9pbihST09ULCAiZGF0YSIsICJoaXN0b3J5IikKVE1QLCBUUFVCID0gInRyYWNrX3RtcCIsIG9zLnBhdGguam9pbihST09ULCAiZGF0YSIsICJ0cmFja19wdWIiKQoKCmRlZiBicHMzMChMKToKICAgICIiIk5FQVIncyByZXZlbnVlIG92ZXIgcHVibGlzaGVkIHZvbHVtZSwgbGFzdCAzMCBDT01QTEVURSBkYXlzLCBpbiBiYXNpcyBwb2ludHMuIiIiCiAgICB2ID0ge3Q6IHggZm9yIHQsIHggaW4gTFsidm9sdW1lIl1bOi0xXX0KICAgIHIgPSB7dDogeCBmb3IgdCwgeCBpbiBMWyJyZXZlbnVlIl1bOi0xXX0KICAgIGRheXMgPSBzb3J0ZWQodilbLTMwOl0KICAgIHR2ID0gc3VtKHZbdF0gZm9yIHQgaW4gZGF5cykKICAgIHJldHVybiBzdW0oci5nZXQodCwgMCkgZm9yIHQgaW4gZGF5cykgLyB0diAqIDFlNCBpZiB0diBlbHNlIE5vbmUKCgpkZWYgbWFpbigpOgogICAgYXAgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tc3RyYXRhIiwgdHlwZT1pbnQsIGRlZmF1bHQ9OTYpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0ta2VlcCIsIGFjdGlvbj0ic3RvcmVfdHJ1ZSIsIGhlbHA9ImtlZXAgdGhlIHRlbXBvcmFyeSBzYW1wbGUgKGZvciBkZWJ1Z2dpbmcpIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1yZXN1bWUiLCBhY3Rpb249InN0b3JlX3RydWUiLCBoZWxwPSJjb250aW51ZSBhbiBpbnRlcnJ1cHRlZCBkb3dubG9hZCIpCiAgICBhID0gYXAucGFyc2VfYXJncygpCiAgICB0b2RheSA9IGR0LmRhdGV0aW1lLm5vdyhkdC50aW1lem9uZS51dGMpLnN0cmZ0aW1lKCIlWS0lbS0lZCIpCiAgICBzZWVkID0gaW50KHRvZGF5LnJlcGxhY2UoIi0iLCAiIikpCiAgICByYXcgPSBvcy5wYXRoLmpvaW4oUk9PVCwgImRhdGEiLCBUTVApCiAgICBpZiBub3QgYS5yZXN1bWU6CiAgICAgICAgc2h1dGlsLnJtdHJlZShyYXcsIGlnbm9yZV9lcnJvcnM9VHJ1ZSkKICAgIG9zLm1ha2VkaXJzKFRQVUIsIGV4aXN0X29rPVRydWUpCiAgICBvcy5tYWtlZGlycyhISVNULCBleGlzdF9vaz1UcnVlKQoKICAgIGltcG9ydCBmZXRjaF9wdWJsaWMKICAgIGZldGNoX3B1YmxpYy5QVUIgPSBUUFVCCiAgICBmZXRjaF9wdWJsaWMubGxhbWEoKQogICAgZmV0Y2hfcHVibGljLnRva2VucygpCgogICAgc3VicHJvY2Vzcy5jaGVja19jYWxsKFtzeXMuZXhlY3V0YWJsZSwgb3MucGF0aC5qb2luKEhFUkUsICJzYW1wbGVfb25jaGFpbi5weSIpLCAiLS1kaXIiLCBUTVAsICItLXNlZWQiLCBzdHIoc2VlZCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICItLXN0cmF0YSIsIHN0cihhLnN0cmF0YSksICItLXN0cmF0dW0tYmxvY2tzIiwgIjE1MDAiLCAiLS13aW5kb3ciLCAiNDAiXSkKICAgIGltcG9ydCBhbmFseXplCiAgICBhbmFseXplLlBVQiA9IFRQVUIKICAgIG8gPSBhbmFseXplLnJ1bihyYXc9VE1QLCBwcmljZV9tb2RlPSJzcG90IiwgYm9vdD0xMDAwLCB3cml0ZT1GYWxzZSkKICAgIGsgPSBhbmFseXplLmtleV9tZXRyaWNzKG8pCiAgICBjZmcgPSBqc29uLmxvYWQob3Blbihvcy5wYXRoLmpvaW4ocmF3LCAic2FtcGxlX2NvbmZpZy5qc29uIikpKQogICAgTCA9IGpzb24ubG9hZChvcGVuKG9zLnBhdGguam9pbihUUFVCLCAiZGVmaWxsYW1hLmpzb24iKSkpCiAgICBsYXN0ID0gbGFtYmRhIHM6IExbc11bLTJdIGlmIGxlbihMW3NdKSA+IDEgZWxzZSBMW3NdWy0xXSAgICMgbGFzdCBDT01QTEVURSBkYXkgKHRoZSBmaW5hbCByb3cgaXMgdG9kYXksIHBhcnRpYWwpCiAgICB2b2wsIHJldiA9IGxhc3QoInZvbHVtZSIpLCBsYXN0KCJyZXZlbnVlIikKICAgIGNmID0gb1siY29uZmlkZW50aWFsIl0KICAgIGRlcCA9IG9bInRvdGFsc19wZXJfZGF5Il1bImRlcG9zaXRfdXNkIl0KICAgIHJvdyA9IHsiZGF0ZSI6IHRvZGF5LCAibWVhc3VyZWRfYXQiOiBpbnQodGltZS50aW1lKCkpLCAic2VlZCI6IHNlZWQsICJlbmRfaGVpZ2h0IjogY2ZnWyJlbmRfaGVpZ2h0Il0sCiAgICAgICAgICAgInN0cmF0YSI6IGNmZ1sibl9zdHJhdGEiXSwgInN0cmF0dW1fYmxvY2tzIjogY2ZnWyJzdHJhdHVtX2Jsb2NrcyJdLCAid2luZG93X2Jsb2NrcyI6IGNmZ1sid2luZG93X2Jsb2NrcyJdLAogICAgICAgICAgICJ3aW5kb3dzIjoga1sid2luZG93cyJdLCAidHJhbnNhY3Rpb25zIjoga1sidHJhbnNhY3Rpb25zIl0sCiAgICAgICAgICAgIlQyIjoga1siVDIiXSwgIlQyX2NoYWluIjoga1siVDJfY2hhaW4iXSwgIlQzIjoga1siVDMiXSwgIlQ0Ijoga1siVDQiXSwgIlQ1Ijoga1siVDUiXSwKICAgICAgICAgICAidHJlYXN1cnlfZWl0aGVyX3NpZGUiOiBrWyJyb3V0ZXIiXSwgInNoaWVsZF92c19wdWJsaWMiOiBrWyJzaGllbGRfdnNfcHVibGljIl0sCiAgICAgICAgICAgInNoaWVsZF91c2RfcGVyX2RheSI6IGNmWyJzaGllbGRfdXNkX3Blcl9kYXkiXSwgInB1YmxpY19zd2FwX3VzZF9wZXJfZGF5IjogY2ZbInB1YmxpY19zd2FwX3VzZF9wZXJfZGF5Il0sCiAgICAgICAgICAgImRlcG9zaXRfdXNkX3Blcl9kYXkiOiBkZXAsICJ0cmFuc2FjdGlvbnNfcGVyX2RheSI6IG9bInRvdGFsc19wZXJfZGF5Il1bInRyYW5zYWN0aW9ucyJdLAogICAgICAgICAgICJwdWJsaXNoZWRfdm9sdW1lX2xhc3RfZnVsbF9kYXkiOiB2b2xbMV0sICJwdWJsaXNoZWRfZGF5IjogZHQuZGF0ZXRpbWUuZnJvbXRpbWVzdGFtcCh2b2xbMF0sIGR0LnRpbWV6b25lLnV0Yykuc3RyZnRpbWUoIiVZLSVtLSVkIiksCiAgICAgICAgICAgIlQ2X2Jwc19sYXN0X2Z1bGxfZGF5IjogKHJldlsxXSAvIHZvbFsxXSAqIDFlNCkgaWYgdm9sWzFdIGVsc2UgTm9uZSwKICAgICAgICAgICAiVDZfYnBzXzMwZCI6IGJwczMwKEwpfQogICAgcCA9IG9zLnBhdGguam9pbihISVNULCAidHJhY2tlci5qc29ubCIpCiAgICByb3dzID0gW2pzb24ubG9hZHMobCkgZm9yIGwgaW4gb3BlbihwKV0gaWYgb3MucGF0aC5leGlzdHMocCkgZWxzZSBbXQogICAgcm93cyA9IFtyIGZvciByIGluIHJvd3MgaWYgclsiZGF0ZSJdICE9IHRvZGF5XSArIFtyb3ddCiAgICByb3dzLnNvcnQoa2V5PWxhbWJkYSByOiByWyJkYXRlIl0pCiAgICB3aXRoIG9wZW4ocCwgInciKSBhcyBmOgogICAgICAgIGZvciByIGluIHJvd3M6CiAgICAgICAgICAgIGYud3JpdGUoanNvbi5kdW1wcyhyLCBzZXBhcmF0b3JzPSgiLCIsICI6IikpICsgIlxuIikKICAgIHByaW50KCJ0cmFja2VyIHJvdyBmb3IiLCB0b2RheSwganNvbi5kdW1wcyhyb3cpWzo0MDBdKQogICAgaWYgbm90IGEua2VlcDoKICAgICAgICBzaHV0aWwucm10cmVlKHJhdywgaWdub3JlX2Vycm9ycz1UcnVlKQogICAgICAgIHNodXRpbC5ybXRyZWUoVFBVQiwgaWdub3JlX2Vycm9ycz1UcnVlKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+"""Daily tracker: re-measure the last 24 hours and append one row to data/history/tracker.jsonl.
+
+This does NOT touch the committed 30-day snapshot (data/raw, data/raw_b, data/public) or its verdicts.
+It draws a small fresh sample (96 strata of 1,500 blocks = about 24 hours, one 40-block window each,
+seed = the UTC date as YYYYMMDD), values it with a freshly fetched 1Click price list, and records the
+same figures the six tests use, so the dashboard can show whether they move after the snapshot.
+About 6-10 minutes on the keyless FastNEAR endpoint. Set FASTNEAR_API_KEY to go faster.
+
+Usage: python3 scripts/track.py [--strata 96] [--keep]
+"""
+import argparse, datetime as dt, json, os, shutil, subprocess, sys, time
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE)
+sys.path.insert(0, HERE)
+HIST = os.path.join(ROOT, "data", "history")
+TMP, TPUB = "track_tmp", os.path.join(ROOT, "data", "track_pub")
+
+
+def bps30(L):
+    """NEAR's revenue over published volume, last 30 COMPLETE days, in basis points."""
+    v = {t: x for t, x in L["volume"][:-1]}
+    r = {t: x for t, x in L["revenue"][:-1]}
+    days = sorted(v)[-30:]
+    tv = sum(v[t] for t in days)
+    return sum(r.get(t, 0) for t in days) / tv * 1e4 if tv else None
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--strata", type=int, default=96)
+    ap.add_argument("--keep", action="store_true", help="keep the temporary sample (for debugging)")
+    ap.add_argument("--resume", action="store_true", help="continue an interrupted download")
+    a = ap.parse_args()
+    today = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
+    seed = int(today.replace("-", ""))
+    raw = os.path.join(ROOT, "data", TMP)
+    if not a.resume:
+        shutil.rmtree(raw, ignore_errors=True)
+    os.makedirs(TPUB, exist_ok=True)
+    os.makedirs(HIST, exist_ok=True)
+
+    import fetch_public
+    fetch_public.PUB = TPUB
+    fetch_public.llama()
+    fetch_public.tokens()
+
+    subprocess.check_call([sys.executable, os.path.join(HERE, "sample_onchain.py"), "--dir", TMP, "--seed", str(seed),
+                           "--strata", str(a.strata), "--stratum-blocks", "1500", "--window", "40"])
+    import analyze
+    analyze.PUB = TPUB
+    o = analyze.run(raw=TMP, price_mode="spot", boot=1000, write=False)
+    k = analyze.key_metrics(o)
+    cfg = json.load(open(os.path.join(raw, "sample_config.json")))
+    L = json.load(open(os.path.join(TPUB, "defillama.json")))
+    last = lambda s: L[s][-2] if len(L[s]) > 1 else L[s][-1]   # last COMPLETE day (the final row is today, partial)
+    vol, rev = last("volume"), last("revenue")
+    cf = o["confidential"]
+    dep = o["totals_per_day"]["deposit_usd"]
+    row = {"date": today, "measured_at": int(time.time()), "seed": seed, "end_height": cfg["end_height"],
+           "strata": cfg["n_strata"], "stratum_blocks": cfg["stratum_blocks"], "window_blocks": cfg["window_blocks"],
+           "windows": k["windows"], "transactions": k["transactions"],
+           "T2": k["T2"], "T2_chain": k["T2_chain"], "T3": k["T3"], "T4": k["T4"], "T5": k["T5"],
+           "treasury_either_side": k["router"], "shield_vs_public": k["shield_vs_public"],
+           "shield_usd_per_day": cf["shield_usd_per_day"], "public_swap_usd_per_day": cf["public_swap_usd_per_day"],
+           "deposit_usd_per_day": dep, "transactions_per_day": o["totals_per_day"]["transactions"],
+           "published_volume_last_full_day": vol[1], "published_day": dt.datetime.fromtimestamp(vol[0], dt.timezone.utc).strftime("%Y-%m-%d"),
+           "T6_bps_last_full_day": (rev[1] / vol[1] * 1e4) if vol[1] else None,
+           "T6_bps_30d": bps30(L)}
+    p = os.path.join(HIST, "tracker.jsonl")
+    rows = [json.loads(l) for l in open(p)] if os.path.exists(p) else []
+    rows = [r for r in rows if r["date"] != today] + [row]
+    rows.sort(key=lambda r: r["date"])
+    with open(p, "w") as f:
+        for r in rows:
+            f.write(json.dumps(r, separators=(",", ":")) + "\n")
+    print("tracker row for", today, json.dumps(row)[:400])
+    if not a.keep:
+        shutil.rmtree(raw, ignore_errors=True)
+        shutil.rmtree(TPUB, ignore_errors=True)
+
+
+if __name__ == "__main__":
+    main()
