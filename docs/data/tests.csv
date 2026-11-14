@@ -1,0 +1,7 @@
+test,claim,verdict,pooled,pooled_lo,pooled_hi,main,replication
+T1,The published volume is real: value entering the contract on-chain matches it,supported,0.69916,0.55672,0.84159,0.78689,0.65547
+T2,Demand is multi-chain: no single chain supplies half of the deposits,inconclusive,0.29224,0.21605,0.36844,0.30931,0.50719
+T3,It is a dollar rail: stablecoins are most of the value moved,supported,0.72457,0.66425,0.78489,0.72771,0.72159
+T4,Settlement is NOT concentrated: no single account sends half of the value,inconclusive,0.44231,0.39078,0.49385,0.40599,0.52909
+T5,Access is NOT concentrated: the five busiest signers submit under 90% of transactions,contradicted,0.97578,0.97368,0.97788,0.97473,0.97758
+T6,NEAR captures value: revenue is at least 5 bps of volume (30 days),contradicted,,,,,
