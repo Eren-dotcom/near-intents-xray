@@ -1,1 +1,10 @@
-X19weWNhY2hlX18vCioucHljCmRhdGEvcmF3L3NhbXBsZV90eHMuanNvbmwKZGF0YS9yYXdfYi9zYW1wbGVfdHhzLmpzb25sCmRhdGEvcmF3L3ByZXZpb3VzLwouZW52Ci5EU19TdG9yZQpkYXRhL3RyYWNrX3RtcC8KZGF0YS90cmFja19wdWIvCmRhdGEvcmF3X2Mvc2FtcGxlX3R4cy5qc29ubAo=
+__pycache__/
+*.pyc
+data/raw/sample_txs.jsonl
+data/raw_b/sample_txs.jsonl
+data/raw/previous/
+.env
+.DS_Store
+data/track_tmp/
+data/track_pub/
+data/raw_c/sample_txs.jsonl
