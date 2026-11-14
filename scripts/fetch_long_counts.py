@@ -1,1 +1,19 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJFeGFjdCBudW1iZXIgb2YgdHJhbnNhY3Rpb25zIHRvdWNoaW5nIGludGVudHMubmVhciBmb3IgZWFjaCBvZiB0aGUgbGFzdCBOIFVUQyBkYXlzIChkZWZhdWx0IDE4MCkuCktlcHQgYXBhcnQgZnJvbSB0aGUgNDUtZGF5IGZpbGUgdGhlIHNuYXBzaG90IHVzZXMsIHNvIHRoZSBmcm96ZW4gZmlndXJlcyBkbyBub3QgbW92ZS4KQWJvdXQgMTUgbWludXRlcyBvbiB0aGUga2V5bGVzcyBGYXN0TkVBUiBlbmRwb2ludC4gV3JpdGVzIGRhdGEvcHVibGljL2ludGVudHNfdHhfY291bnRzX2xvbmcuanNvbi4iIiIKaW1wb3J0IGpzb24sIG9zLCBzaHV0aWwsIHN5cywgdGVtcGZpbGUKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpzeXMucGF0aC5pbnNlcnQoMCwgSEVSRSkKaW1wb3J0IGZldGNoX3B1YmxpYyBhcyBmcAoKZGF5cyA9IGludChzeXMuYXJndlsxXSkgaWYgbGVuKHN5cy5hcmd2KSA+IDEgZWxzZSAxODAKdG1wID0gdGVtcGZpbGUubWtkdGVtcCgpCnJlYWwgPSBmcC5QVUIKZnAuUFVCID0gdG1wCmZwLmV4YWN0X2NvdW50cyhkYXlzKQpkID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKHRtcCwgImludGVudHNfdHhfY291bnRzLmpzb24iKSkpCmRbImRheXMiXSA9IGRheXMKanNvbi5kdW1wKGQsIG9wZW4ob3MucGF0aC5qb2luKHJlYWwsICJpbnRlbnRzX3R4X2NvdW50c19sb25nLmpzb24iKSwgInciKSwgc2VwYXJhdG9ycz0oIiwiLCAiOiIpKQpzaHV0aWwucm10cmVlKHRtcCkKcHJpbnQoIndyb3RlIGludGVudHNfdHhfY291bnRzX2xvbmcuanNvbiIsIGxlbihkWyJyb3dzIl0pLCAiZGF5cyIpCg==
+#!/usr/bin/env python3
+"""Exact number of transactions touching intents.near for each of the last N UTC days (default 180).
+Kept apart from the 45-day file the snapshot uses, so the frozen figures do not move.
+About 15 minutes on the keyless FastNEAR endpoint. Writes data/public/intents_tx_counts_long.json."""
+import json, os, shutil, sys, tempfile
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
+import fetch_public as fp
+
+days = int(sys.argv[1]) if len(sys.argv) > 1 else 180
+tmp = tempfile.mkdtemp()
+real = fp.PUB
+fp.PUB = tmp
+fp.exact_counts(days)
+d = json.load(open(os.path.join(tmp, "intents_tx_counts.json")))
+d["days"] = days
+json.dump(d, open(os.path.join(real, "intents_tx_counts_long.json"), "w"), separators=(",", ":"))
+shutil.rmtree(tmp)
+print("wrote intents_tx_counts_long.json", len(d["rows"]), "days")
