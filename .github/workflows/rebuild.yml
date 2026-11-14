@@ -1,0 +1,16 @@
+name: rebuild-and-test
+on: [push, pull_request]
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Rebuild every number, chart and the thesis from the committed raw samples, then run the tests
+        run: python3 rebuild.py
+      - name: Fail if the committed outputs differ from a fresh rebuild (figures only; the build timestamp is ignored)
+        run: |
+          git diff --stat -I 'Built 20' -- THESIS.md README.md data/derived/numbers.json
+          git diff --quiet -I 'Built 20' -- THESIS.md data/derived/numbers.json
