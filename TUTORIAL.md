@@ -1,1 +1,103 @@
-IyBUdXRvcmlhbDogbGVhcm4gdGhlIHByb2plY3QgYnkgZG9pbmcKClNldmVuIHNob3J0IGV4ZXJjaXNlcywgZnJvbSAiZG9lcyBpdCBydW4iIHRvICJhZGQgeW91ciBvd24gdGVzdCIuIFB5dGhvbiAzLjkgb3IgbmV3ZXI7IG5vIHBhY2thZ2VzIHRvCmluc3RhbGwuIEV4ZXJjaXNlcyAx4oCTNCB3b3JrIG9mZmxpbmUuCgojIyAxLiBSZWJ1aWxkIGV2ZXJ5dGhpbmcgKDMgbWludXRlcykKCmBgYGJhc2gKcHl0aG9uMyByZWJ1aWxkLnB5CmBgYAoKWW91IHNob3VsZCBzZWUgYGFsbCBjaGVja3MgcGFzc2VkYC4gVGhlbiBgZ2l0IHN0YXR1c2Agc2hvdWxkIHNob3cgbm8gY2hhbmdlIHRvIGBUSEVTSVMubWRgIG9yCmBkYXRhL2Rlcml2ZWQvbnVtYmVycy5qc29uYCAob25seSBhIGJ1aWxkIHRpbWVzdGFtcCBpbiBgUkVBRE1FLm1kYCkuIFRoYXQgaXMgdGhlIHJlcHJvZHVjaWJpbGl0eSBjbGFpbS4KCiMjIDIuIFJlYWQgb25lIHJhdyB0cmFuc2FjdGlvbgoKYGBgYmFzaApweXRob24zIC0gPDwnUFknCmltcG9ydCBqc29uCmZvciBsaW5lIGluIG9wZW4oImRhdGEvcmF3L3NhbXBsZV90eHMuanNvbmwiKToKICAgIHQgPSBqc29uLmxvYWRzKGxpbmUpCiAgICBpZiB0WyJ0eCJdLnN0YXJ0c3dpdGgoIkhSQWlEWHFTIik6CiAgICAgICAgcHJpbnQoanNvbi5kdW1wcyh0LCBpbmRlbnQ9MSkpOyBicmVhawpQWQpgYGAKCkZvbGxvdyBpdCB0aHJvdWdoIHNlY3Rpb24gNiBvZiBbYE1FVEhPRE9MT0dZLm1kYF0oTUVUSE9ET0xPR1kubWQpOiB3aGljaCBldmVudHMgaXQgaGFzLCBob3cgdGhlIGFtb3VudApiZWNvbWVzIGRvbGxhcnMsIGFuZCB3aGljaCB0b3RhbHMgaXQgYWRkcyB0by4KCiMjIDMuIENoZWNrIHRoYXQgdGhlIHNhbXBsZSB3YXMgbm90IGNoZXJyeS1waWNrZWQKCmBgYGJhc2gKcHl0aG9uMyB0ZXN0cy90ZXN0X2FsbC5weSB8IGdyZXAgInNlZWRlZCBwbGFuIgpgYGAKClRoZSB0ZXN0IHJlLWNyZWF0ZXMgZWFjaCBzYW1wbGluZyBwbGFuIGZyb20gdGhlIHNlZWQgaW4gYHNhbXBsZV9jb25maWcuanNvbmAgYW5kIGNvbXBhcmVzIGl0IHdpdGggdGhlIHdpbmRvd3MKb24gZGlzay4gQ2hhbmdlIG9uZSBgbG9gIHZhbHVlIGluIGBkYXRhL3Jhdy93aW5kb3dzLmpzb25sYCBhbmQgcnVuIGl0IGFnYWluOiBpdCBmYWlscy4KCiMjIDQuIE1vdmUgYSB0aHJlc2hvbGQKCk9wZW4gYHRoZXNpc190ZXN0cy5qc29uYCwgY2hhbmdlIFQ1J3MgYHRocmVzaG9sZGAgZnJvbSBgMC45YCB0byBgMC45OWAsIGFuZCBydW46CgpgYGBiYXNoCnB5dGhvbjMgc2NyaXB0cy9idWlsZF9yZXBvcnQucHkKYGBgCgpUaGUgVDUgY2FyZCBvbiB0aGUgZGFzaGJvYXJkIGNoYW5nZXMgZnJvbSAiY29udHJhZGljdGVkIiB0byAic3VwcG9ydGVkIi4gUHV0IHRoZSB2YWx1ZSBiYWNrIGFmdGVyd2FyZHMuIFRoZQpzbGlkZXJzIGluIHNlY3Rpb24gOSBvZiB0aGUgZGFzaGJvYXJkIGRvIHRoZSBzYW1lIHRoaW5nIHdpdGhvdXQgZWRpdGluZyBhIGZpbGUuCgojIyA1LiBUZXN0IHlvdXIgb3duIGNsYWltCgpQaWNrIGFueSBmaWd1cmUgaW4gYGRhdGEvZGVyaXZlZC9udW1iZXJzLmpzb25gIGFuZCBkZWNpZGUgeW91ciBwYXNzIHJ1bGUgKipiZWZvcmUqKiB5b3UgbG9vayBhdCB0aGUgbnVtYmVyLgpUaGVuOgoKYGBgYmFzaApweXRob24zIHNjcmlwdHMvdHJ5X3Rlc3QucHkgY29uZmlkZW50aWFsLnNoaWVsZF9zaGFyZV9vZl90cmFuc2ZlcnMgYmVsb3cgMC41CmBgYAoKSXQgcHJpbnRzIHRoZSBlc3RpbWF0ZSwgaXRzIDk1JSBpbnRlcnZhbCBhbmQgYSB2ZXJkaWN0IHVuZGVyIHRoZSBzYW1lIHJ1bGUgdGhlIHNpeCB0ZXN0cyB1c2U6IHN1cHBvcnRlZCBvcgpjb250cmFkaWN0ZWQgb25seSB3aGVuIHRoZSB3aG9sZSBpbnRlcnZhbCBpcyBvbiBvbmUgc2lkZSwgb3RoZXJ3aXNlIGluY29uY2x1c2l2ZS4gT3RoZXIgZXhhbXBsZXM6CgpgYGBiYXNoCnB5dGhvbjMgc2NyaXB0cy90cnlfdGVzdC5weSByZWNvbmNpbGlhdGlvbi5kZXBvc2l0X292ZXJfcHVibGlzaGVkIGJldHdlZW4gMC41IDIuMApweXRob24zIHNjcmlwdHMvdHJ5X3Rlc3QucHkgYWNjZXNzLnNlbGZfc2lnbmVkX3NoYXJlIGFib3ZlIDAuMQpgYGAKClRoZSBzaXggaGVhZGxpbmUgdGVzdHMgYXJlIGZpeGVkIGluIGB0aGVzaXNfdGVzdHMuanNvbmAgYW5kIGFsc28gcmVxdWlyZSBhIHNlY29uZCBzYW1wbGUgdG8gYWdyZWU7IHRoaXMgdG9vbAp1c2VzIHRoZSBtYWluIHNhbXBsZSBvbmx5LCBzbyB0cmVhdCBpdHMgdmVyZGljdCBhcyBhIGZpcnN0IGxvb2suCgojIyA2LiBNZWFzdXJlIHRvZGF5ICgxMCBtaW51dGVzLCBuZWVkcyBuZXR3b3JrKQoKYGBgYmFzaApweXRob24zIHJlYnVpbGQucHkgLS10cmFjawpgYGAKClRoaXMgc2FtcGxlcyB0aGUgbGFzdCAyNCBob3VycyBhbmQgYWRkcyBhIHJvdyB0byBgZGF0YS9oaXN0b3J5L3RyYWNrZXIuanNvbmxgLiBTZWN0aW9uIDggb2YgdGhlIGRhc2hib2FyZApzaG93cyBpdCBuZXh0IHRvIHRoZSAzMC1kYXkgc25hcHNob3QgYW5kIHVwZGF0ZXMgdGhlIHNjb3JlIG9mIHRoZSBmaXZlIHByZWRpY3Rpb25zLgoKIyMgNy4gRHJhdyB5b3VyIG93biBzYW1wbGUgKDQwIG1pbnV0ZXMsIG5lZWRzIG5ldHdvcmspCgpgYGBiYXNoCnB5dGhvbjMgc2NyaXB0cy9zYW1wbGVfb25jaGFpbi5weSAtLWRpciByYXdfbWluZSAtLXNlZWQgMTIzNDUgLS1zdHJhdGEgMzYwIC0tc3RyYXR1bS1ibG9ja3MgMTIwMDAgLS13aW5kb3cgNDAKYGBgCgpUaGVuIGNvbXBhcmUgaXQgd2l0aCBvdXJzOgoKYGBgYmFzaApweXRob24zIC0gPDwnUFknCmltcG9ydCBzeXM7IHN5cy5wYXRoLmluc2VydCgwLCAic2NyaXB0cyIpCmltcG9ydCBhbmFseXplCm8gPSBhbmFseXplLnJ1bihyYXc9InJhd19taW5lIiwgd3JpdGU9RmFsc2UsIGJvb3Q9NTAwKQpwcmludChhbmFseXplLmtleV9tZXRyaWNzKG8pKQpQWQpgYGAKCklmIHlvdXIgVDMgb3IgVDUgY29tZXMgb3V0IG9uIHRoZSBvdGhlciBzaWRlIG9mIGl0cyB0aHJlc2hvbGQsIHlvdSBoYXZlIGZvdW5kIGEgcmVhbCBwcm9ibGVtIHdpdGggdGhpcwp0aGVzaXMuIFBsZWFzZSBvcGVuIGFuIGlzc3VlLgoKIyMgT3B0aW9uYWw6IHRoZSBCaWdRdWVyeSBjcm9zcy1jaGVjawoKYHNxbC9iaWdxdWVyeV9pbnRlbnRzX3VzYWdlLnNxbGAgaG9sZHMgdGhyZWUgcXVlcmllcyBhZ2FpbnN0IE5FQVIncyBwdWJsaWMgQmlnUXVlcnkgZGF0YXNldC4gVGhleSB3ZXJlCndyaXR0ZW4gYnV0IG5vdCBydW4uIElmIHlvdSBoYXZlIGEgR29vZ2xlIENsb3VkIHByb2plY3QsIHJ1biB0aGVtIGFuZCBjb21wYXJlIFExIHdpdGgKYGRhdGEvcHVibGljL2ludGVudHNfdHhfY291bnRzLmpzb25gOiB0aGUgY291bnRzIHNob3VsZCBtYXRjaCBkYXkgYnkgZGF5Lgo=
+# Tutorial: learn the project by doing
+
+Seven short exercises, from "does it run" to "add your own test". Python 3.9 or newer; no packages to
+install. Exercises 1–4 work offline.
+
+## 1. Rebuild everything (3 minutes)
+
+```bash
+python3 rebuild.py
+```
+
+You should see `all checks passed`. Then `git status` should show no change to `THESIS.md` or
+`data/derived/numbers.json` (only a build timestamp in `README.md`). That is the reproducibility claim.
+
+## 2. Read one raw transaction
+
+```bash
+python3 - <<'PY'
+import json
+for line in open("data/raw/sample_txs.jsonl"):
+    t = json.loads(line)
+    if t["tx"].startswith("HRAiDXqS"):
+        print(json.dumps(t, indent=1)); break
+PY
+```
+
+Follow it through section 6 of [`METHODOLOGY.md`](METHODOLOGY.md): which events it has, how the amount
+becomes dollars, and which totals it adds to.
+
+## 3. Check that the sample was not cherry-picked
+
+```bash
+python3 tests/test_all.py | grep "seeded plan"
+```
+
+The test re-creates each sampling plan from the seed in `sample_config.json` and compares it with the windows
+on disk. Change one `lo` value in `data/raw/windows.jsonl` and run it again: it fails.
+
+## 4. Move a threshold
+
+Open `thesis_tests.json`, change T5's `threshold` from `0.9` to `0.99`, and run:
+
+```bash
+python3 scripts/build_report.py
+```
+
+The T5 card on the dashboard changes from "contradicted" to "supported". Put the value back afterwards. The
+sliders in section 9 of the dashboard do the same thing without editing a file.
+
+## 5. Test your own claim
+
+Pick any figure in `data/derived/numbers.json` and decide your pass rule **before** you look at the number.
+Then:
+
+```bash
+python3 scripts/try_test.py confidential.shield_share_of_transfers below 0.5
+```
+
+It prints the estimate, its 95% interval and a verdict under the same rule the six tests use: supported or
+contradicted only when the whole interval is on one side, otherwise inconclusive. Other examples:
+
+```bash
+python3 scripts/try_test.py reconciliation.deposit_over_published between 0.5 2.0
+python3 scripts/try_test.py access.self_signed_share above 0.1
+```
+
+The six headline tests are fixed in `thesis_tests.json` and also require a second sample to agree; this tool
+uses the main sample only, so treat its verdict as a first look.
+
+## 6. Measure today (10 minutes, needs network)
+
+```bash
+python3 rebuild.py --track
+```
+
+This samples the last 24 hours and adds a row to `data/history/tracker.jsonl`. Section 8 of the dashboard
+shows it next to the 30-day snapshot and updates the score of the five predictions.
+
+## 7. Draw your own sample (40 minutes, needs network)
+
+```bash
+python3 scripts/sample_onchain.py --dir raw_mine --seed 12345 --strata 360 --stratum-blocks 12000 --window 40
+```
+
+Then compare it with ours:
+
+```bash
+python3 - <<'PY'
+import sys; sys.path.insert(0, "scripts")
+import analyze
+o = analyze.run(raw="raw_mine", write=False, boot=500)
+print(analyze.key_metrics(o))
+PY
+```
+
+If your T3 or T5 comes out on the other side of its threshold, you have found a real problem with this
+thesis. Please open an issue.
+
+## Optional: the BigQuery cross-check
+
+`sql/bigquery_intents_usage.sql` holds three queries against NEAR's public BigQuery dataset. They were
+written but not run. If you have a Google Cloud project, run them and compare Q1 with
+`data/public/intents_tx_counts.json`: the counts should match day by day.
