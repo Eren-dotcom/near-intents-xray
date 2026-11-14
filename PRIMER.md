@@ -1,1 +1,74 @@
-IyBQcmltZXI6IHdoYXQgTkVBUiBJbnRlbnRzIGlzIGFuZCBob3cgdG8gcmVhZCB0aGlzIHByb2plY3QKCkEgc2hvcnQgaW50cm9kdWN0aW9uIGZvciByZWFkZXJzIHdobyBoYXZlIG5vdCBsb29rZWQgYXQgTkVBUiBJbnRlbnRzIGJlZm9yZS4gSXQgZGVzY3JpYmVzIG9ubHkgd2hhdCBORUFSJ3MKZG9jdW1lbnRhdGlvbiBzYXlzIG9yIHdoYXQgdGhlIHNhbXBsZWQgdHJhbnNhY3Rpb25zIHNob3cuCgojIyBUaGUgaWRlYSBpbiBvbmUgcGFyYWdyYXBoCgpBIHVzZXIgd2hvIHdhbnRzIHRvIHN3YXAsIHNheSwgVVNEVCBvbiBUcm9uIGZvciBVU0RDIG9uIEV0aGVyZXVtIGRvZXMgbm90IHRyYWRlIG9uIGFuIGV4Y2hhbmdlLiBUaGV5IHN0YXRlCndoYXQgdGhleSB3YW50IChhbiAqaW50ZW50KiksIGFuZCBjb21wZXRpbmcgbWFya2V0IG1ha2VycyAoKnNvbHZlcnMqKSBvZmZlciB0byBmaWxsIGl0LiBTZXR0bGVtZW50IGhhcHBlbnMKaW5zaWRlIG9uZSBzbWFydCBjb250cmFjdCBvbiBORUFSLCBgaW50ZW50cy5uZWFyYCwgd2hpY2gga2VlcHMgYSBsZWRnZXIgb2Ygd2hvIG93bnMgd2hpY2ggYnJpZGdlZCB0b2tlbi4KTW9zdCB1c2VycyBuZXZlciB0b3VjaCBORUFSIGRpcmVjdGx5OiBhbiBhcHAgb3Igd2FsbGV0IGhhbmRsZXMgaXQsIGFuZCBhICpyZWxheWVyKiBzdWJtaXRzIHRoZSB0cmFuc2FjdGlvbi4KCiMjIFRoZSBwYXRoIG9mIGEgc3dhcAoKYGBgbWVybWFpZApmbG93Y2hhcnQgTFIKICBVW1VzZXIgb24gYW5vdGhlciBjaGFpbl0gLS0+fGRlcG9zaXR8IEJbQnJpZGdlXQogIEIgLS0+fG10X21pbnQ6IGJhbGFuY2UgY3JlZGl0ZWR8IExbKGludGVudHMubmVhciBsZWRnZXIpXQogIEwgLS0+fHRva2VuX2RpZmY6IHN3YXAgc2V0dGxlZCBpbiB0aGUgb3BlbnwgTAogIEwgLS0+fHRyYW5zZmVyIHdpdGggbG9uZyBvcGFxdWUgbWVtbzogc2hpZWxkfCBUW0NvbmZpZGVudGlhbCBJbnRlbnRzIFRyZWFzdXJ5XQogIFQgLS4gYmFja3MgMToxIC4tPiBGWyhQcml2YXRlIGNvbnRyYWN0IGludGVudHMuZmFyKV0KICBGIC0uIHN3YXAsIG5vdCB2aXNpYmxlIGZyb20gb3V0c2lkZSAuLT4gRgogIFQgLS0+fHRyYW5zZmVyIG91dDogdW5zaGllbGR8IEwKICBMIC0tPnxtdF9idXJuOiB3aXRoZHJhd2FsfCBPW0Rlc3RpbmF0aW9uIGNoYWluXQogIFJbUmVsYXllciBhY2NvdW50c10gLS0+fHNpZ24gYW5kIHN1Ym1pdHwgTApgYGAKCnwgU3RlcCB8IE9uLWNoYWluIGV2ZW50IHdlIHJlYWQgfCBXaGF0IGl0IHRlbGxzIHVzIHwKfC0tLXwtLS18LS0tfAp8IERlcG9zaXQgfCBgbmVwMjQ1Om10X21pbnRgIHwgVmFsdWUgZW50ZXJpbmcsIGFuZCBmcm9tIHdoaWNoIGNoYWluIHwKfCBPcGVuIHN3YXAgfCBgZGlwNDp0b2tlbl9kaWZmYCB8IEEgc3dhcCBhbnlvbmUgY2FuIGluc3BlY3Q6IHdobyBnYXZlIHdoYXQgZm9yIHdoYXQgfAp8IFNoaWVsZCB8IGBkaXA0OnRyYW5zZmVyYCBpbnRvIHRoZSB0cmVhc3VyeSB8IFZhbHVlIG1vdmluZyB0byB0aGUgY29uZmlkZW50aWFsIHNpZGUgfAp8IENvbmZpZGVudGlhbCBzd2FwIHwgbm9uZSBvbiBgaW50ZW50cy5uZWFyYCB8IE5vdCBvYnNlcnZhYmxlIGZyb20gb3V0c2lkZSB8CnwgVW5zaGllbGQgfCBgZGlwNDp0cmFuc2ZlcmAgb3V0IG9mIHRoZSB0cmVhc3VyeSB8IFZhbHVlIHJldHVybmluZyB0byB0aGUgcHVibGljIGxlZGdlciB8CnwgV2l0aGRyYXdhbCB8IGBuZXAyNDU6bXRfYnVybmAgfCBWYWx1ZSBsZWF2aW5nLCBhbmQgdG8gd2hpY2ggY2hhaW4gfAoKIyMgV2h5IGFuIGludmVzdG9yIHNob3VsZCBjYXJlCgotICoqVm9sdW1lIGlzIHRoZSBwaXRjaC4qKiBORUFSIEludGVudHMgdm9sdW1lIGlzIHRoZSBtb3N0IHF1b3RlZCBmaWd1cmUgaW4gdGhlIE5FQVIgaW52ZXN0bWVudCBjYXNlLgotICoqUmV2ZW51ZSBmb2xsb3dzIHZvbHVtZSwgYXQgYSByYXRlIE5FQVIgc2V0cy4qKiBVc2VycyBwYXkgYWJvdXQgMTYgYmFzaXMgcG9pbnRzOyBORUFSIGtlZXBzIGFib3V0IDUuCi0gKipTdHJ1Y3R1cmUgZGVjaWRlcyBkdXJhYmlsaXR5LioqIFdobyBjYW4gc3VibWl0IHRyYW5zYWN0aW9ucywgd2hvIGhvbGRzIHRoZSBmdW5kcywgYW5kIGhvdyBtdWNoIG9mIHRoZQogIGFjdGl2aXR5IGNhbiBiZSBhdWRpdGVkIGRldGVybWluZSB3aGV0aGVyIHRoZSB2b2x1bWUgaXMgYSBtb2F0IG9yIGEgZGVwZW5kZW5jeS4KCiMjIEdsb3NzYXJ5Cgp8IFRlcm0gfCBNZWFuaW5nIHwKfC0tLXwtLS18CnwgSW50ZW50IHwgQSBzaWduZWQgc3RhdGVtZW50IG9mIHRoZSBvdXRjb21lIGEgdXNlciB3YW50cywgZm9yIGV4YW1wbGUgImdpdmUgbWUgYXQgbGVhc3QgWCBvZiB0b2tlbiBCIGZvciBZIG9mIHRva2VuIEEiIHwKfCBTb2x2ZXIgfCBBIG1hcmtldCBtYWtlciB0aGF0IGZpbGxzIGludGVudHMgZnJvbSBpdHMgb3duIGludmVudG9yeSB8CnwgUmVsYXllciB8IEFuIGFjY291bnQgdGhhdCBzdWJtaXRzIHRyYW5zYWN0aW9ucyBvbiBiZWhhbGYgb2YgdXNlcnMgYW5kIHBheXMgdGhlIG5ldHdvcmsgZmVlIHwKfCBTaWduZXIgfCBUaGUgYWNjb3VudCB0aGF0IHNpZ25lZCBhbmQgc3VibWl0dGVkIGEgdHJhbnNhY3Rpb247IHdoYXQgdGVzdCBUNSBtZWFzdXJlcyB8CnwgYGludGVudHMubmVhcmAgfCBUaGUgcHVibGljIGNvbnRyYWN0IHRoYXQgdmVyaWZpZXMgaW50ZW50cyBhbmQga2VlcHMgdGhlIHRva2VuIGxlZGdlciB8CnwgMUNsaWNrIHwgTkVBUidzIHN3YXAgQVBJIHVzZWQgYnkgd2FsbGV0cyBhbmQgYXBwczsgaXRzIHRva2VuIGxpc3Qgc3VwcGxpZXMgb3VyIGFzc2V0IGlkcywgZGVjaW1hbHMgYW5kIHByaWNlcyB8CnwgU2hpZWxkIC8gdW5zaGllbGQgfCBNb3ZpbmcgZnVuZHMgaW50byAvIG91dCBvZiB0aGUgY29uZmlkZW50aWFsIHNpZGUgdGhyb3VnaCB0aGUgdHJlYXN1cnkgYWNjb3VudCB8CnwgQ29uZmlkZW50aWFsIEludGVudHMgVHJlYXN1cnkgfCBUaGUgYWNjb3VudCB0aGF0IGhvbGRzIHRoZSBwdWJsaWMgdG9rZW5zIGJhY2tpbmcgZXZlcnkgc2hpZWxkZWQgYmFsYW5jZSB8CnwgYGludGVudHMuZmFyYCB8IFRoZSBwcml2YXRlIGNvbnRyYWN0IHdoZXJlIGNvbmZpZGVudGlhbCBzd2FwcyBleGVjdXRlLCBwZXIgTkVBUidzIGRvY3VtZW50YXRpb24gfAp8IEJhc2lzIHBvaW50IChicHMpIHwgT25lIGh1bmRyZWR0aCBvZiBhIHBlcmNlbnQuIDUgYnBzIG9mICQxMDAgaXMgNSBjZW50cyB8CnwgVGFrZSAocmF0ZSkgfCBUaGUgc2hhcmUgb2Ygdm9sdW1lIGEgcHJvdG9jb2wga2VlcHMgYXMgcmV2ZW51ZSB8CnwgUHVibGlzaGVkIHZvbHVtZSB8IERlZmlMbGFtYSdzIGRhaWx5IE5FQVIgSW50ZW50cyB2b2x1bWUsIHdoaWNoIGNvbWVzIGZyb20gTkVBUidzIG93biBkYXRhIHRhYmxlcyB8CnwgSW1wbGljaXQgYWNjb3VudCB8IEEgTkVBUiBhY2NvdW50IG5hbWVkIGJ5IGEgNjQtY2hhcmFjdGVyIGtleSBoYXNoLCB0eXBpY2FsbHkgY3JlYXRlZCBhdXRvbWF0aWNhbGx5IGZvciBhIHVzZXIgfAp8IE5hbWVkIGFjY291bnQgfCBBIE5FQVIgYWNjb3VudCB3aXRoIGEgcmVhZGFibGUgbmFtZSBzdWNoIGFzIGBzb2x2ZXItcHJpdi1saXEubmVhcmAgfAp8IFN0cmF0dW0gfCBPbmUgZXF1YWwgc2xpY2Ugb2YgdGhlIHBlcmlvZDsgb25lIHdpbmRvdyBpcyBzYW1wbGVkIGZyb20gZWFjaCB8CnwgV2luZG93IHwgNDAgY29uc2VjdXRpdmUgYmxvY2tzIHdob3NlIHRyYW5zYWN0aW9ucyBhcmUgYWxsIGRvd25sb2FkZWQgfAp8IEJvb3RzdHJhcCB8IFJlLWRyYXdpbmcgdGhlIHNhbXBsZSBmcm9tIGl0c2VsZiBtYW55IHRpbWVzIHRvIHNlZSBob3cgbXVjaCBhIGZpZ3VyZSBjb3VsZCB2YXJ5IHwKfCA5NSUgaW50ZXJ2YWwgfCBUaGUgcmFuZ2UgdGhhdCBob2xkcyB0aGUgbWlkZGxlIDk1JSBvZiBib290c3RyYXAgcmVzdWx0cyB8CnwgUG9vbGVkIGVzdGltYXRlIHwgQSBwcmVjaXNpb24td2VpZ2h0ZWQgYXZlcmFnZSBvZiBpbmRlcGVuZGVudCBzYW1wbGVzIHwKfCBISEkgfCBIZXJmaW5kYWhs4oCTSGlyc2NobWFuIGluZGV4LCBhIGNvbmNlbnRyYXRpb24gbWVhc3VyZTsgYWJvdmUgMiw1MDAgaXMgdXN1YWxseSBjYWxsZWQgaGlnaGx5IGNvbmNlbnRyYXRlZCB8CnwgT3V0LW9mLXNhbXBsZSB8IENoZWNrZWQgb24gZGF0YSB0aGF0IHdhcyBub3QgYXZhaWxhYmxlIHdoZW4gdGhlIHJ1bGUgd2FzIHdyaXR0ZW4gfAoKIyMgSG93IHRvIHJlYWQgYSByZXN1bHQKCkV2ZXJ5IHNhbXBsZS1iYXNlZCBmaWd1cmUgbG9va3MgbGlrZSAqKjcyLjUlICg2Ni40JSB0byA3OC41JSkqKjogdGhlIGVzdGltYXRlLCB0aGVuIGl0cyA5NSUgaW50ZXJ2YWwuIEEgdGVzdApwYXNzZXMgb3IgZmFpbHMgb25seSB3aGVuIHRoZSAqd2hvbGUqIGludGVydmFsIGlzIG9uIG9uZSBzaWRlIG9mIGl0cyB0aHJlc2hvbGQuIFdoZW4gaXQgc3RyYWRkbGVzLCBvciB3aGVuCnR3byBzYW1wbGVzIGRpc2FncmVlLCB0aGUgdmVyZGljdCBpcyAiaW5jb25jbHVzaXZlIiBhbmQgd2Ugc2F5IHNvLgo=
+# Primer: what NEAR Intents is and how to read this project
+
+A short introduction for readers who have not looked at NEAR Intents before. It describes only what NEAR's
+documentation says or what the sampled transactions show.
+
+## The idea in one paragraph
+
+A user who wants to swap, say, USDT on Tron for USDC on Ethereum does not trade on an exchange. They state
+what they want (an *intent*), and competing market makers (*solvers*) offer to fill it. Settlement happens
+inside one smart contract on NEAR, `intents.near`, which keeps a ledger of who owns which bridged token.
+Most users never touch NEAR directly: an app or wallet handles it, and a *relayer* submits the transaction.
+
+## The path of a swap
+
+```mermaid
+flowchart LR
+  U[User on another chain] -->|deposit| B[Bridge]
+  B -->|mt_mint: balance credited| L[(intents.near ledger)]
+  L -->|token_diff: swap settled in the open| L
+  L -->|transfer with long opaque memo: shield| T[Confidential Intents Treasury]
+  T -. backs 1:1 .-> F[(Private contract intents.far)]
+  F -. swap, not visible from outside .-> F
+  T -->|transfer out: unshield| L
+  L -->|mt_burn: withdrawal| O[Destination chain]
+  R[Relayer accounts] -->|sign and submit| L
+```
+
+| Step | On-chain event we read | What it tells us |
+|---|---|---|
+| Deposit | `nep245:mt_mint` | Value entering, and from which chain |
+| Open swap | `dip4:token_diff` | A swap anyone can inspect: who gave what for what |
+| Shield | `dip4:transfer` into the treasury | Value moving to the confidential side |
+| Confidential swap | none on `intents.near` | Not observable from outside |
+| Unshield | `dip4:transfer` out of the treasury | Value returning to the public ledger |
+| Withdrawal | `nep245:mt_burn` | Value leaving, and to which chain |
+
+## Why an investor should care
+
+- **Volume is the pitch.** NEAR Intents volume is the most quoted figure in the NEAR investment case.
+- **Revenue follows volume, at a rate NEAR sets.** Users pay about 16 basis points; NEAR keeps about 5.
+- **Structure decides durability.** Who can submit transactions, who holds the funds, and how much of the
+  activity can be audited determine whether the volume is a moat or a dependency.
+
+## Glossary
+
+| Term | Meaning |
+|---|---|
+| Intent | A signed statement of the outcome a user wants, for example "give me at least X of token B for Y of token A" |
+| Solver | A market maker that fills intents from its own inventory |
+| Relayer | An account that submits transactions on behalf of users and pays the network fee |
+| Signer | The account that signed and submitted a transaction; what test T5 measures |
+| `intents.near` | The public contract that verifies intents and keeps the token ledger |
+| 1Click | NEAR's swap API used by wallets and apps; its token list supplies our asset ids, decimals and prices |
+| Shield / unshield | Moving funds into / out of the confidential side through the treasury account |
+| Confidential Intents Treasury | The account that holds the public tokens backing every shielded balance |
+| `intents.far` | The private contract where confidential swaps execute, per NEAR's documentation |
+| Basis point (bps) | One hundredth of a percent. 5 bps of $100 is 5 cents |
+| Take (rate) | The share of volume a protocol keeps as revenue |
+| Published volume | DefiLlama's daily NEAR Intents volume, which comes from NEAR's own data tables |
+| Implicit account | A NEAR account named by a 64-character key hash, typically created automatically for a user |
+| Named account | A NEAR account with a readable name such as `solver-priv-liq.near` |
+| Stratum | One equal slice of the period; one window is sampled from each |
+| Window | 40 consecutive blocks whose transactions are all downloaded |
+| Bootstrap | Re-drawing the sample from itself many times to see how much a figure could vary |
+| 95% interval | The range that holds the middle 95% of bootstrap results |
+| Pooled estimate | A precision-weighted average of independent samples |
+| HHI | Herfindahl–Hirschman index, a concentration measure; above 2,500 is usually called highly concentrated |
+| Out-of-sample | Checked on data that was not available when the rule was written |
+
+## How to read a result
+
+Every sample-based figure looks like **72.5% (66.4% to 78.5%)**: the estimate, then its 95% interval. A test
+passes or fails only when the *whole* interval is on one side of its threshold. When it straddles, or when
+two samples disagree, the verdict is "inconclusive" and we say so.
