@@ -1,1 +1,162 @@
-IyBNZXRob2RvbG9neQoKRXZlcnl0aGluZyB0aGUgZGFzaGJvYXJkLCBgVEhFU0lTLm1kYCBhbmQgdGhlIHJlc2VhcmNoIG5vdGUgcmVwb3J0IGlzIGNvbXB1dGVkIGJ5IGBzY3JpcHRzL2FuYWx5emUucHlgIGZyb20KdGhlIGZpbGVzIGluIGBkYXRhL2AuIFRoaXMgZG9jdW1lbnQgc2F5cyBleGFjdGx5IGhvdy4gTmV3IHRvIE5FQVIgSW50ZW50cz8gUmVhZCBbYFBSSU1FUi5tZGBdKFBSSU1FUi5tZCkKZmlyc3QuIFdhbnQgdG8gdHJ5IGl0IGhhbmRzLW9uPyBTZWUgW2BUVVRPUklBTC5tZGBdKFRVVE9SSUFMLm1kKS4gU291cmNlcyBhcmUgbGlzdGVkIGluCltgU09VUkNFUy5tZGBdKFNPVVJDRVMubWQpLgoKIyMgMS4gVGhlIHF1ZXN0aW9uIGFuZCB0aGUgZGVzaWduCgpUaGUgcHVibGlzaGVkIE5FQVIgSW50ZW50cyB2b2x1bWUgaXMgb25lIG51bWJlciBmcm9tIE5FQVIncyBvd24gZGF0YSB0YWJsZXMuIFdlIHdhbnRlZCBmaWd1cmVzIGFuIG91dHNpZGVyCmNhbiByZWJ1aWxkIGZyb20gdGhlIGNoYWluOiB3aGVyZSB2YWx1ZSBjb21lcyBmcm9tLCB3aG8gc2V0dGxlcyBpdCwgd2hvIHN1Ym1pdHMgaXQuIERvd25sb2FkaW5nIGV2ZXJ5CnRyYW5zYWN0aW9uIG9mIGBpbnRlbnRzLm5lYXJgIGZvciAzMCBkYXlzIHdhcyBub3QgcG9zc2libGUgb24gYSBrZXlsZXNzIGVuZHBvaW50IChhYm91dCAxMTUsMDAwIHRyYW5zYWN0aW9ucwphIGRheSwgNjAgcmVxdWVzdHMgYSBtaW51dGUpLiBTbyB3ZSB1c2UgYSAqKnN0cmF0aWZpZWQgY2x1c3RlciBzYW1wbGUqKiBhbmQgcmVwb3J0IGV2ZXJ5IGZpZ3VyZSB3aXRoIGFuCmludGVydmFsLgoKfCBTdGVwIHwgV2hhdCBpcyBkb25lIHwgV2h5IHwKfC0tLXwtLS18LS0tfAp8IEZpeCB0aGUgcGVyaW9kIHwgVGhlIDQsMzIwLDAwMCBibG9ja3MgKGFib3V0IDMwIGRheXMpIGJlZm9yZSBibG9jayAyMjQsNTEwLDU4NSB8IE9uZSBlbmQgaGVpZ2h0IHNoYXJlZCBieSBhbGwgdGhyZWUgc2FtcGxlcywgc28gdGhleSBjb3ZlciB0aGUgc2FtZSBkYXlzIHwKfCBTdHJhdGlmeSB8IEN1dCB0aGUgcGVyaW9kIGludG8gZXF1YWwgc3RyYXRhIChtYWluIHNhbXBsZTogNzIwIHN0cmF0YSBvZiA2LDAwMCBibG9ja3MsIGFib3V0IG9uZSBob3VyIGVhY2gpIHwgR3VhcmFudGVlcyBldmVuIGNvdmVyYWdlIG9mIGV2ZXJ5IGhvdXIgYW5kIGRheSB8CnwgRHJhdyB8IEluIGVhY2ggc3RyYXR1bSBkcmF3IG9uZSB3aW5kb3cgb2YgNDAgY29uc2VjdXRpdmUgYmxvY2tzIHdpdGggYSBzZWVkZWQgZ2VuZXJhdG9yIHwgQSB3aW5kb3cgaXMgY2hlYXAgdG8gZG93bmxvYWQgaW4gZnVsbDsgdGhlIHNlZWQgbWFrZXMgdGhlIGRyYXcgcmVwZWF0YWJsZSB8CnwgRG93bmxvYWQgfCBFdmVyeSB0cmFuc2FjdGlvbiB0b3VjaGluZyBgaW50ZW50cy5uZWFyYCBpbiB0aGUgd2luZG93LCB3aXRoIGl0cyBldmVudCBsb2dzIHwgTm8gc2VsZWN0aW9uIGluc2lkZSBhIHdpbmRvdyB8CnwgVXNlIGNvbXBsZXRlIHdpbmRvd3Mgb25seSB8IEEgd2luZG93IGlzIHVzZWQgb25seSBpZiBldmVyeSBsaXN0ZWQgdHJhbnNhY3Rpb24gd2FzIGRvd25sb2FkZWQgfCBBdm9pZHMgYmlhcyBmcm9tIHBhcnRpYWwgd2luZG93cyB8CgpUaHJlZSBzYW1wbGVzIHdlcmUgZHJhd24gdGhpcyB3YXk6Cgp8IFNhbXBsZSB8IEZvbGRlciB8IFNlZWQgfCBTdHJhdGEgw5cgYmxvY2tzIHwgV2luZG93cyB8IFRyYW5zYWN0aW9ucyB8IFJvbGUgfAp8LS0tfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfAp8IE1haW4gfCBgZGF0YS9yYXcvYCB8IDIwMjYxMTE0IHwgNzIwIMOXIDYsMDAwIHwgNzIwIHwgMjIsMzIzIHwgQWxsIGhlYWRsaW5lIGNoYXJ0cyB8CnwgUmVwbGljYXRpb24gfCBgZGF0YS9yYXdfYi9gIHwgNzc3IHwgMzYwIMOXIDEyLDAwMCB8IDM2MCB8IDExLDI4NCB8IFNlY29uZCBvcGluaW9uOyBwb29sZWQgd2l0aCB0aGUgbWFpbiBzYW1wbGUgZm9yIHZlcmRpY3RzIHwKfCBUaGlyZCB8IGBkYXRhL3Jhd19jL2AgfCAzMTMzNyB8IDM2MCDDlyAxMiwwMDAgfCAzNjAgfCAxMSwzODcgfCBPdXQtb2Ytc2FtcGxlIGNoZWNrLCBkcmF3biBhZnRlciB0aGUgdmVyZGljdCBydWxlIHdhcyBmaXhlZCB8CgpgdGVzdHMvdGVzdF9hbGwucHlgIHJlLWRlcml2ZXMgZWFjaCBzYW1wbGluZyBwbGFuIGZyb20gaXRzIHNlZWQgYW5kIGZhaWxzIGlmIHRoZSB3aW5kb3dzIG9uIGRpc2sgZGlmZmVyLgoKIyMgMi4gRXN0aW1hdG9ycwoKTGV0IGBrYCBpbmRleCB3aW5kb3dzLCBgU2AgdGhlIHN0cmF0dW0gbGVuZ3RoIGFuZCBgV2AgdGhlIHdpbmRvdyBsZW5ndGggaW4gYmxvY2tzLgoKLSAqKlRvdGFscy4qKiBGb3IgYSBwZXItd2luZG93IHF1YW50aXR5IGB5X2tgIChmb3IgZXhhbXBsZSBVU0QgZGVwb3NpdGVkKSwgdGhlIHBlcmlvZCB0b3RhbCBpcyBlc3RpbWF0ZWQgYXMKICBgKFMgLyBXKSDDlyDOoyB5X2tgLiBFYWNoIHdpbmRvdyBzdGFuZHMgZm9yIGBTIC8gV2Agd2luZG93cyAoMTUwIGluIHRoZSBtYWluIHNhbXBsZSkuIFBlci1kYXkgZmlndXJlcyBkaXZpZGUKICBieSB0aGUgbnVtYmVyIG9mIGRheXMgY292ZXJlZC4KLSAqKlNoYXJlcy4qKiBBIHNoYXJlIGlzIGEgcmF0aW8gb2YgdHdvIHRvdGFscywgYM6jIHlfayAvIM6jIHhfa2AgKGZvciBleGFtcGxlIHN0YWJsZWNvaW4gVVNEIG92ZXIgYWxsIFVTRAogIG1vdmVkKS4gVGhlIGV4cGFuc2lvbiBmYWN0b3IgY2FuY2Vscy4KLSAqKkludGVydmFscy4qKiBXaW5kb3dzIGFyZSByZXNhbXBsZWQgd2l0aCByZXBsYWNlbWVudCAyLDAwMCB0aW1lcyAoNTAwIGZvciBzZW5zaXRpdml0eSBydW5zKSBhbmQgdGhlCiAgc3RhdGlzdGljIGlzIHJlY29tcHV0ZWQgZWFjaCB0aW1lLiBUaGUgaW50ZXJ2YWwgaXMgdGhlIDIuNXRoIHRvIDk3LjV0aCBwZXJjZW50aWxlLiBSZXNhbXBsaW5nIHdob2xlIHdpbmRvd3MKICBrZWVwcyB0aGUgZGVwZW5kZW5jZSBiZXR3ZWVuIHRyYW5zYWN0aW9ucyBpbnNpZGUgYSB3aW5kb3cuCi0gKipQb29saW5nLioqIFR3byBvciB0aHJlZSBzYW1wbGVzIGFyZSBjb21iaW5lZCBieSBhbiBpbnZlcnNlLXZhcmlhbmNlIGF2ZXJhZ2UuIEVhY2ggc2FtcGxlJ3Mgc3RhbmRhcmQgZXJyb3IKICBpcyB0YWtlbiBhcyAodXBwZXIg4oiSIGxvd2VyKSAvIDMuOTIsIGFuZCB0aGUgcG9vbGVkIGludGVydmFsIGlzIHRoZSBwb29sZWQgbWVhbiDCsSAxLjk2IHBvb2xlZCBzdGFuZGFyZAogIGVycm9ycy4gVGhpcyBhc3N1bWVzIHJvdWdobHkgbm9ybWFsIGVzdGltYXRlczsgd2hlcmUgc2FtcGxlcyBkaXNhZ3JlZSB0aGUgcG9vbGVkIGludGVydmFsIGlzIHRvbyBuYXJyb3csCiAgd2hpY2ggaXMgd2h5IHZlcmRpY3RzIGFsc28gcmVxdWlyZSB0aGUgc2FtcGxlcycgb3duIGVzdGltYXRlcyB0byBhZ3JlZS4KLSAqKkJyZWFrIGRhdGUuKiogVGhlIGRheSBzd2FwcyBsZWZ0IHRoZSBwdWJsaWMgY29udHJhY3QgaXMgdGhlIHNwbGl0IG9mIHRoZSBkYWlseSBzZXJpZXMgKHNoYXJlIG9mCiAgdHJhbnNhY3Rpb25zIGNhcnJ5aW5nIGEgYGRpcDQ6dG9rZW5fZGlmZmAgZXZlbnQpIHRoYXQgbWluaW1pc2VzIHdpdGhpbi1wZXJpb2QgdmFyaWFuY2UsIHdpdGggYXQgbGVhc3QgZml2ZQogIGRheXMgb24gZWFjaCBzaWRlLiBJdHMgdW5jZXJ0YWludHkgY29tZXMgZnJvbSByZXNhbXBsaW5nIHdpbmRvd3Mgd2l0aGluIGVhY2ggZGF5IDEsMDAwIHRpbWVzIGFuZCByZWRvaW5nCiAgdGhlIHNwbGl0LgoKIyMgMy4gVmVyZGljdCBydWxlCgpUaHJlc2hvbGRzIGxpdmUgaW4gYHRoZXNpc190ZXN0cy5qc29uYC4gVGhleSB3ZXJlIGZpeGVkIGFmdGVyIGEgNi13aW5kb3cgcGlsb3QgYW5kIGJlZm9yZSB0aGUgZnVsbCBzYW1wbGUgd2FzCmRyYXduLCBhbmQgaGF2ZSBub3QgYmVlbiBjaGFuZ2VkLgoKMS4gQ29tcHV0ZSB0aGUgcG9vbGVkIGVzdGltYXRlIG9mIHRoZSBtYWluIGFuZCByZXBsaWNhdGlvbiBzYW1wbGVzLgoyLiAqKlN1cHBvcnRlZCoqIGlmIHRoZSB3aG9sZSA5NSUgaW50ZXJ2YWwgcGFzc2VzIHRoZSBydWxlOyAqKmNvbnRyYWRpY3RlZCoqIGlmIHRoZSB3aG9sZSBpbnRlcnZhbCBmYWlscyBpdC4KMy4gRG93bmdyYWRlIHRvICoqaW5jb25jbHVzaXZlKiogaWYgdGhlIHR3byBzYW1wbGVzJyBvd24gcG9pbnQgZXN0aW1hdGVzIGZhbGwgb24gb3Bwb3NpdGUgc2lkZXMgb2YgdGhlCiAgIHRocmVzaG9sZCwgb3IgaWYgdGhlIGludGVydmFsIHN0cmFkZGxlcyBpdC4KCkRpc2Nsb3N1cmU6IHRoaXMgY29tYmluaW5nIHJ1bGUgd2FzIHdyaXR0ZW4gYWZ0ZXIgdGhlIGZpcnN0IHR3byBzYW1wbGVzIGhhZCBiZWVuIGRyYXduLiBUaGUgdGhpcmQgc2FtcGxlIHdhcwpkcmF3biBhZnRlciBpdCBhbmQgZGlkIG5vdCBjaGFuZ2UgYW55IHZlcmRpY3QuIFQ2IHVzZXMgcHVibGlzaGVkIDMwLWRheSBmaWd1cmVzIGFuZCBoYXMgbm8gaW50ZXJ2YWwuCgojIyA0LiBWYWx1YXRpb24KCi0gVG9rZW4gYW1vdW50cyBhcmUgY29udmVydGVkIHdpdGggdGhlIGRlY2ltYWxzIGluIHRoZSAxQ2xpY2sgdG9rZW4gbGlzdC4KLSBFYWNoIGxlZyBpcyB2YWx1ZWQgYXQgdGhlIGFzc2V0J3MgVVNEIHByaWNlICoqb24gdGhlIGRheSBvZiB0aGUgdHJhbnNhY3Rpb24qKiAoRGVmaUxsYW1hIGRhaWx5IHByaWNlcyBieQogIENvaW5HZWNrbyBpZCkuIFdoZXJlIG5vIGRhaWx5IHByaWNlIGV4aXN0cywgdGhlIDFDbGljayBsaXN0IHByaWNlIGF0IGZldGNoIHRpbWUgaXMgdXNlZC4KLSA5OS43JSBvZiB0b2tlbiBsZWdzIGFyZSBwcmljZWQ7IDk5LjAlIGF0IGEgZGF5IHByaWNlLiBVbnByaWNlZCBsZWdzIGFyZSBjb3VudGVkIGFuZCBsaXN0ZWQsIG5vdCBndWVzc2VkLgotIFNlbnNpdGl2aXR5IHJ1biAiUHJpY2VzIGF0IGZldGNoIHRpbWUiIHZhbHVlcyBldmVyeXRoaW5nIGF0IG9uZSBwcmljZSBsaXN0IHRvIHNob3cgaG93IG11Y2ggdGhpcyBtYXR0ZXJzLgoKIyMgNS4gV2hpY2ggZXZlbnQgbWVhbnMgd2hhdAoKT25seSBsb2dzIGVtaXR0ZWQgYnkgYGludGVudHMubmVhcmAgaXRzZWxmIGFyZSByZWFkLiBFYWNoIGlzIGFuIGBFVkVOVF9KU09OYCByZWNvcmQuCgp8IEV2ZW50IHwgV2hhdCB3ZSB0YWtlIGZyb20gaXQgfCBVc2VkIGZvciB8CnwtLS18LS0tfC0tLXwKfCBgbmVwMjQ1Om10X21pbnRgIHwgVG9rZW4gYW5kIGFtb3VudCBjcmVkaXRlZCB0byBhbiBhY2NvdW50IHwgRGVwb3NpdHMsIGJ5IHNvdXJjZSBjaGFpbiAoVDEsIFQyKSB8CnwgYG5lcDI0NTptdF9idXJuYCB8IFRva2VuIGFuZCBhbW91bnQgcmVtb3ZlZCB8IFdpdGhkcmF3YWxzLCBieSBkZXN0aW5hdGlvbiBjaGFpbiB8CnwgYGRpcDQ6dHJhbnNmZXJgIHwgU2VuZGVyIChgYWNjb3VudF9pZGApLCBgcmVjZWl2ZXJfaWRgLCB0b2tlbnMsIG1lbW8gfCBWYWx1ZSBtb3ZlZCBpbnNpZGUgdGhlIGxlZGdlcjsgc2VuZGVycyBhbmQgcmVjZWl2ZXJzIChUMywgVDQpOyBzaGllbGQgYW5kIHVuc2hpZWxkIHwKfCBgZGlwNDp0b2tlbl9kaWZmYCB8IFBlci1hY2NvdW50IHRva2VuIGNoYW5nZXMgb2YgYSBzd2FwIHwgU3dhcHMgc2V0dGxlZCBpbiB0aGUgb3BlbiAocG9zaXRpdmUgbGVncywgaGFsdmVkIHNvIGVhY2ggc3dhcCBjb3VudHMgb25jZSkgfAp8IHRyYW5zYWN0aW9uIGBzaWduZXJfaWRgIHwgV2hvIHBhaWQgZm9yIGFuZCBzdWJtaXR0ZWQgdGhlIHRyYW5zYWN0aW9uIHwgQWNjZXNzIGNvbmNlbnRyYXRpb24gKFQ1KSB8CnwgYGRpcDQ6ZnRfd2l0aGRyYXdgLCBgbXRfd2l0aGRyYXdgLCBgbmF0aXZlX3dpdGhkcmF3YCB8IENvdW50ZWQgb25seSB8IEV2ZW50IG1peCB8CgoqKlNoaWVsZCBhbmQgdW5zaGllbGQuKiogQSBgZGlwNDp0cmFuc2ZlcmAgd2hvc2UgcmVjZWl2ZXIgaXMgdGhlIENvbmZpZGVudGlhbCBJbnRlbnRzIFRyZWFzdXJ5CihgNTFlOGY5NGTigKY3Y2JlYCwgbmFtZWQgaW4gTkVBUidzIGRvY3VtZW50YXRpb24pIGlzIGNvdW50ZWQgYXMgYSBzaGllbGQ7IGEgdHJhbnNmZXIgc2VudCBieSBpdCBhcyBhbgp1bnNoaWVsZC4gVGhlIHN3YXAgdGhhdCBmb2xsb3dzIHJ1bnMgb24gYSBzZXBhcmF0ZSBwcml2YXRlIGNvbnRyYWN0IGFuZCBpcyBub3QgdmlzaWJsZSBoZXJlLgoKIyMgNi4gQSB3b3JrZWQgZXhhbXBsZQoKVHJhbnNhY3Rpb24gYEhSQWlEWHFTVkdlVURVRnNRY3lBQ2RVTjJGMmFYSGJCbkJoRDZaRkI1Z1Y0YCwgYmxvY2sgMjI0LDUwNSwxNDIsIGluIHdpbmRvdyAwIG9mIHRoZSBtYWluIHNhbXBsZQooYGRhdGEvcmF3L3NhbXBsZV90eHMuanNvbmxgKToKCmBgYGpzb24KeyJ0eCI6ICJIUkFpRFhxU+KApjVnVjQiLCAiaCI6IDIyNDUwNTE0MiwgInQiOiAxNzk0NjU0MzAwLCAic2lnbmVyIjogImludGVudHMubmVhciIsICJyZWN2IjogImludGVudHMubmVhciIsCiAiZXYiOiBbWyJkaXA0IiwgInRyYW5zZmVyIiwgW3siYWNjb3VudF9pZCI6ICIyNmU1MDM5OeKApjYwNzMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInJlY2VpdmVyX2lkIjogIjUxZThmOTRk4oCmN2NiZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidG9rZW5zIjogeyJuZXAxNDE6Ym5iLTB4NTVkM+KApjc5NTUub21kZXAubmVhciI6ICI4OTI4MDAwMjQ3OTk5OTk5OTk4NTEifSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJtZW1vIjogIjwxODQgY2hhcnM+In1dXSwKICAgICAgICBbImRpcDQiLCAiaW50ZW50c19leGVjdXRlZCIsIFvigKZdXSwKICAgICAgICBbIm5lcDI0NSIsICJtdF90cmFuc2ZlciIsIFvigKZdXV0sCiAiayI6IDB9CmBgYAoKSG93IGl0IGlzIGNvdW50ZWQ6CgoxLiBUaGUgdG9rZW4gaXMgVVNEVCBicmlkZ2VkIGZyb20gQk5CIENoYWluLCAxOCBkZWNpbWFsczogODkyODAwMDI0Nzk5OTk5OTk5ODUxIC8gMTBeMTggPSA4OTIuODAgVVNEVC4KMi4gVmFsdWVkIGF0IHRoYXQgZGF5J3MgcHJpY2UgKGFib3V0ICQwLjk5OSk6IGFib3V0ICoqJDg5MioqLgozLiBJdCBpcyBhIGBkaXA0OnRyYW5zZmVyYCwgc28gJDg5MiBpcyBhZGRlZCB0byB2YWx1ZSBtb3ZlZCwgdG8gdGhlIHNlbmRlcidzIHRvdGFsIGFuZCB0byB0aGUgcmVjZWl2ZXIncy4KNC4gVVNEVCBpcyBhIHN0YWJsZWNvaW4sIHNvIGl0IGlzIGFkZGVkIHRvIHRoZSBzdGFibGVjb2luIHRvdGFsIChUMykuCjUuIFRoZSByZWNlaXZlciBpcyB0aGUgdHJlYXN1cnksIHNvIGl0IGlzIGFkZGVkIHRvIHNoaWVsZGVkIHZhbHVlLCBhbmQgaXRzIG1lbW8gKHN0b3JlZCBvbmx5IGFzIGEgbGVuZ3RoLAogICBzdGFydGluZyB3aXRoIGA8YCkgaXMgY291bnRlZCBhcyBhIGxvbmcgbWVtby4gRXZlcnkgdHJhbnNmZXIgaW50byB0aGUgdHJlYXN1cnkgaGFzIG9uZQogICBhbmQgbm8gb3RoZXIgdHJhbnNmZXIgaW4gdGhlIHNhbXBsZSBkb2VzLCB3aGljaCBtYXRjaGVzIHRoZSBkb2N1bWVudGVkIGVuY3J5cHRlZCByZWNpcGllbnQgbWVtby4KNi4gVGhlIHNpZ25lciBpcyBgaW50ZW50cy5uZWFyYCwgc28gdGhlIHRyYW5zYWN0aW9uIGNvdW50cyB0b3dhcmRzIHRoYXQgc2lnbmVyJ3Mgc2hhcmUgKFQ1KS4KNy4gVGhlIHdpbmRvdyBzdGFuZHMgZm9yIDE1MCB3aW5kb3dzLCBzbyB0aGlzIHRyYW5zZmVyIGNvbnRyaWJ1dGVzIGFib3V0ICQ4OTIgw5cgMTUwIHRvIHRoZSAzMC1kYXkgdG90YWwuCgojIyA3LiBGaWxlcwoKKipSYXcgc2FtcGxlKiogKGBkYXRhL3JhdyovYCk6Cgp8IEZpbGUgfCBDb250ZW50IHwKfC0tLXwtLS18CnwgYHNhbXBsZV9jb25maWcuanNvbmAgfCBDb250cmFjdCwgQVBJLCBlbmQgaGVpZ2h0LCBzdHJhdHVtIGFuZCB3aW5kb3cgc2l6ZXMsIHNlZWQgfAp8IGB3aW5kb3dzLmpzb25sYCB8IE9uZSBsaW5lIHBlciB3aW5kb3c6IHN0cmF0dW0gYGtgLCBmaXJzdCBhbmQgbGFzdCBibG9jaywgdHJhbnNhY3Rpb24gaGFzaGVzIGxpc3RlZCB8CnwgYHNhbXBsZV90eHMuanNvbmwuZ3pgIHwgT25lIGxpbmUgcGVyIHRyYW5zYWN0aW9uOiBgdHhgIGhhc2gsIGBoYCBibG9jaywgYHRgIHVuaXggdGltZSwgYHNpZ25lcmAsIGByZWN2YCwgYGV2YCBldmVudHMsIGBrYCBzdHJhdHVtIHwKCioqUHVibGljIHNlcmllcyoqIChgZGF0YS9wdWJsaWMvYCk6IGBkZWZpbGxhbWEuanNvbmAgKHZvbHVtZSwgZmVlcywgcmV2ZW51ZSwgTkVBUiBwcmljZSksIGB0b2tlbnNfMWNsaWNrLmpzb25gCihhc3NldCBsaXN0IGFuZCBwcmljZXMpLCBgcHJpY2VzX2RhaWx5Lmpzb25gLCBgaW50ZW50c190eF9jb3VudHMuanNvbmAgKGV4YWN0IGRhaWx5IGNvdW50cywgNDUgZGF5cyksCmBpbnRlbnRzX3R4X2NvdW50c19sb25nLmpzb25gIChleGFjdCBkYWlseSBjb3VudHMsIDE4MCBkYXlzKSwgYHBlZXJzLmpzb25gLCBgbWFya2V0Lmpzb25gLApgdHJlYXN1cnlfYmFsYW5jZS5qc29uYC4KCioqRGVyaXZlZCoqIChgZGF0YS9kZXJpdmVkL251bWJlcnMuanNvbmApLCB0b3AtbGV2ZWwga2V5czoKCnwgS2V5IHwgQ29udGVudCB8CnwtLS18LS0tfAp8IGBnZW5lcmF0ZWRfZnJvbWAgfCBXaW5kb3dzLCB0cmFuc2FjdGlvbnMsIGRhdGVzLCBwcmljZSBjb3ZlcmFnZSwgYm9vdHN0cmFwIGRyYXdzIHwKfCBgdG90YWxzX3Blcl9kYXlgIHwgVHJhbnNhY3Rpb25zLCB0cmFuc2ZlcnMsIGRlcG9zaXRzLCB3aXRoZHJhd2FscyBwZXIgZGF5LCB3aXRoIGludGVydmFscyB8CnwgYHJlY29uY2lsaWF0aW9uYCB8IFNhbXBsZSBhZ2FpbnN0IHB1Ymxpc2hlZCB2b2x1bWUgYW5kIGV4YWN0IGNvdW50cyAoVDEpIHwKfCBgY2hhaW5zYCwgYGFzc2V0c2AgfCBEZXBvc2l0cyBhbmQgd2l0aGRyYXdhbHMgYnkgY2hhaW47IGFzc2V0cyBhbmQgc3RhYmxlY29pbiBzaGFyZSAoVDIsIFQzKSB8CnwgYGxlZGdlcmAsIGBzdGFuZGluZ2AgfCBTZW5kZXJzLCByZWNlaXZlcnMsIHRoZSBlaXRoZXItc2lkZSBzaGFyZSwgYWNjb3VudHMgc2VlbiBpbiBtYW55IHdpbmRvd3MgKFQ0KSB8CnwgYGFjY2Vzc2AgfCBTaWduZXJzIGFuZCB0aGUgdG9wLWZpdmUgc2hhcmUgKFQ1KSB8CnwgYGNvbmZpZGVudGlhbGAgfCBTaGllbGQsIHVuc2hpZWxkLCBzaGllbGRlcnMsIHNoYXJlIGFnYWluc3Qgb3BlbiBzd2FwcyB8CnwgYHN3aXRjaGAgfCBCcmVhayBkYXRlLCBiZWZvcmUgYW5kIGFmdGVyIGZpZ3VyZXMsIGJvb3RzdHJhcCByYW5nZSB8CnwgYHNpemVzYCwgYHJlZmVycmFsc2AsIGB0aW1pbmdgIHwgVHJhbnNmZXIgc2l6ZXMsIHJlZmVycmFsIHRhZ3MsIGhvdXIgYW5kIHdlZWtkYXkgcGF0dGVybiB8CnwgYGRhaWx5YCwgYG1vbnRobHlgLCBgcHVibGljYCwgYGxlYWRgIHwgRGFpbHkgYW5kIG1vbnRobHkgc2VyaWVzLCBwdWJsaXNoZWQgZmlndXJlcyAoVDYpLCBjb3JyZWxhdGlvbnMgfAp8IGByb2J1c3RuZXNzYCB8IEV2ZXJ5IHRlc3QgdW5kZXIgZXZlcnkgc2FtcGxlIGFuZCBzZW5zaXRpdml0eSBydW4sIHBsdXMgcG9vbGVkIHJvd3MgfAoKIyMgOC4gS25vd24gd2Vha25lc3NlcwoKLSAqKlRoaXJ0eSBkYXlzLioqIE5vdGhpbmcgaGVyZSBzcGVha3MgdG8gc2Vhc29uYWxpdHkgb3IgbG9uZy1ydW4gdHJlbmRzIGluIHRoZSBvbi1jaGFpbiBzdHJ1Y3R1cmUuCi0gKipIZWF2eSB0YWlscy4qKiBUcmFuc2ZlcnMgb2YgJDEwMEsgb3IgbW9yZSBjYXJyeSBhYm91dCBoYWxmIG9mIHRoZSB2YWx1ZS4gVmFsdWUgc2hhcmVzIHRoZXJlZm9yZSBoYXZlIHdpZGUKICBpbnRlcnZhbHMsIGFuZCBvbmUgc2FtcGxlZCB3aGFsZSBjYW4gbW92ZSBhIGRhaWx5IGZpZ3VyZSBhIGxvdC4KLSAqKkNsdXN0ZXIgZWZmZWN0LioqIFRyYW5zYWN0aW9ucyBpbiBvbmUgd2luZG93IGFyZSBub3QgaW5kZXBlbmRlbnQ7IHRoZSB3aW5kb3cgYm9vdHN0cmFwIGFjY291bnRzIGZvciB0aGlzLAogIGJ1dCA0MCBibG9ja3MgaXMgYSBzaG9ydCB3aW5kb3cuCi0gKipQcmljZXMuKiogRGFpbHkgcHJpY2VzIGlnbm9yZSBpbnRyYWRheSBtb3Zlcy4gVGVuIGFzc2V0cyBmYWxsIGJhY2sgdG8gYSBsaXN0IHByaWNlLgotICoqSWRlbnRpZmljYXRpb24uKiogT25lIGFjY291bnQgaXMgaWRlbnRpZmllZCBmcm9tIGRvY3VtZW50YXRpb24uIEFsbCBvdGhlcnMgYXJlIGRlc2NyaWJlZCBieSBiZWhhdmlvdXIuCi0gKipPdXRzaWRlIHZpZXcgb2YgdGhlIGNvbmZpZGVudGlhbCBzaWRlLioqIFdlIHNlZSB0aGUgYm91bmRhcnksIG5vdCB0aGUgcHJpdmF0ZSBjb250cmFjdC4KLSAqKk5vdCBydW4uKiogVGhlIEJpZ1F1ZXJ5IHF1ZXJpZXMgaW4gYHNxbC9gIHdlcmUgd3JpdHRlbiBidXQgbm90IGV4ZWN1dGVkLgo=
+# Methodology
+
+Everything the dashboard, `THESIS.md` and the research note report is computed by `scripts/analyze.py` from
+the files in `data/`. This document says exactly how. New to NEAR Intents? Read [`PRIMER.md`](PRIMER.md)
+first. Want to try it hands-on? See [`TUTORIAL.md`](TUTORIAL.md). Sources are listed in
+[`SOURCES.md`](SOURCES.md).
+
+## 1. The question and the design
+
+The published NEAR Intents volume is one number from NEAR's own data tables. We wanted figures an outsider
+can rebuild from the chain: where value comes from, who settles it, who submits it. Downloading every
+transaction of `intents.near` for 30 days was not possible on a keyless endpoint (about 115,000 transactions
+a day, 60 requests a minute). So we use a **stratified cluster sample** and report every figure with an
+interval.
+
+| Step | What is done | Why |
+|---|---|---|
+| Fix the period | The 4,320,000 blocks (about 30 days) before block 224,510,585 | One end height shared by all three samples, so they cover the same days |
+| Stratify | Cut the period into equal strata (main sample: 720 strata of 6,000 blocks, about one hour each) | Guarantees even coverage of every hour and day |
+| Draw | In each stratum draw one window of 40 consecutive blocks with a seeded generator | A window is cheap to download in full; the seed makes the draw repeatable |
+| Download | Every transaction touching `intents.near` in the window, with its event logs | No selection inside a window |
+| Use complete windows only | A window is used only if every listed transaction was downloaded | Avoids bias from partial windows |
+
+Three samples were drawn this way:
+
+| Sample | Folder | Seed | Strata × blocks | Windows | Transactions | Role |
+|---|---|---|---|---|---|---|
+| Main | `data/raw/` | 20261114 | 720 × 6,000 | 720 | 22,323 | All headline charts |
+| Replication | `data/raw_b/` | 777 | 360 × 12,000 | 360 | 11,284 | Second opinion; pooled with the main sample for verdicts |
+| Third | `data/raw_c/` | 31337 | 360 × 12,000 | 360 | 11,387 | Out-of-sample check, drawn after the verdict rule was fixed |
+
+`tests/test_all.py` re-derives each sampling plan from its seed and fails if the windows on disk differ.
+
+## 2. Estimators
+
+Let `k` index windows, `S` the stratum length and `W` the window length in blocks.
+
+- **Totals.** For a per-window quantity `y_k` (for example USD deposited), the period total is estimated as
+  `(S / W) × Σ y_k`. Each window stands for `S / W` windows (150 in the main sample). Per-day figures divide
+  by the number of days covered.
+- **Shares.** A share is a ratio of two totals, `Σ y_k / Σ x_k` (for example stablecoin USD over all USD
+  moved). The expansion factor cancels.
+- **Intervals.** Windows are resampled with replacement 2,000 times (500 for sensitivity runs) and the
+  statistic is recomputed each time. The interval is the 2.5th to 97.5th percentile. Resampling whole windows
+  keeps the dependence between transactions inside a window.
+- **Pooling.** Two or three samples are combined by an inverse-variance average. Each sample's standard error
+  is taken as (upper − lower) / 3.92, and the pooled interval is the pooled mean ± 1.96 pooled standard
+  errors. This assumes roughly normal estimates; where samples disagree the pooled interval is too narrow,
+  which is why verdicts also require the samples' own estimates to agree.
+- **Break date.** The day swaps left the public contract is the split of the daily series (share of
+  transactions carrying a `dip4:token_diff` event) that minimises within-period variance, with at least five
+  days on each side. Its uncertainty comes from resampling windows within each day 1,000 times and redoing
+  the split.
+
+## 3. Verdict rule
+
+Thresholds live in `thesis_tests.json`. They were fixed after a 6-window pilot and before the full sample was
+drawn, and have not been changed.
+
+1. Compute the pooled estimate of the main and replication samples.
+2. **Supported** if the whole 95% interval passes the rule; **contradicted** if the whole interval fails it.
+3. Downgrade to **inconclusive** if the two samples' own point estimates fall on opposite sides of the
+   threshold, or if the interval straddles it.
+
+Disclosure: this combining rule was written after the first two samples had been drawn. The third sample was
+drawn after it and did not change any verdict. T6 uses published 30-day figures and has no interval.
+
+## 4. Valuation
+
+- Token amounts are converted with the decimals in the 1Click token list.
+- Each leg is valued at the asset's USD price **on the day of the transaction** (DefiLlama daily prices by
+  CoinGecko id). Where no daily price exists, the 1Click list price at fetch time is used.
+- 99.7% of token legs are priced; 99.0% at a day price. Unpriced legs are counted and listed, not guessed.
+- Sensitivity run "Prices at fetch time" values everything at one price list to show how much this matters.
+
+## 5. Which event means what
+
+Only logs emitted by `intents.near` itself are read. Each is an `EVENT_JSON` record.
+
+| Event | What we take from it | Used for |
+|---|---|---|
+| `nep245:mt_mint` | Token and amount credited to an account | Deposits, by source chain (T1, T2) |
+| `nep245:mt_burn` | Token and amount removed | Withdrawals, by destination chain |
+| `dip4:transfer` | Sender (`account_id`), `receiver_id`, tokens, memo | Value moved inside the ledger; senders and receivers (T3, T4); shield and unshield |
+| `dip4:token_diff` | Per-account token changes of a swap | Swaps settled in the open (positive legs, halved so each swap counts once) |
+| transaction `signer_id` | Who paid for and submitted the transaction | Access concentration (T5) |
+| `dip4:ft_withdraw`, `mt_withdraw`, `native_withdraw` | Counted only | Event mix |
+
+**Shield and unshield.** A `dip4:transfer` whose receiver is the Confidential Intents Treasury
+(`51e8f94d…7cbe`, named in NEAR's documentation) is counted as a shield; a transfer sent by it as an
+unshield. The swap that follows runs on a separate private contract and is not visible here.
+
+## 6. A worked example
+
+Transaction `HRAiDXqSVGeUDUFsQcyACdUN2F2aXHbBnBhD6ZFB5gV4`, block 224,505,142, in window 0 of the main sample
+(`data/raw/sample_txs.jsonl`):
+
+```json
+{"tx": "HRAiDXqS…5gV4", "h": 224505142, "t": 1794654300, "signer": "intents.near", "recv": "intents.near",
+ "ev": [["dip4", "transfer", [{"account_id": "26e50399…6073",
+                               "receiver_id": "51e8f94d…7cbe",
+                               "tokens": {"nep141:bnb-0x55d3…7955.omdep.near": "892800024799999999851"},
+                               "memo": "<184 chars>"}]],
+        ["dip4", "intents_executed", […]],
+        ["nep245", "mt_transfer", […]]],
+ "k": 0}
+```
+
+How it is counted:
+
+1. The token is USDT bridged from BNB Chain, 18 decimals: 892800024799999999851 / 10^18 = 892.80 USDT.
+2. Valued at that day's price (about $0.999): about **$892**.
+3. It is a `dip4:transfer`, so $892 is added to value moved, to the sender's total and to the receiver's.
+4. USDT is a stablecoin, so it is added to the stablecoin total (T3).
+5. The receiver is the treasury, so it is added to shielded value, and its memo (stored only as a length,
+   starting with `<`) is counted as a long memo. Every transfer into the treasury has one
+   and no other transfer in the sample does, which matches the documented encrypted recipient memo.
+6. The signer is `intents.near`, so the transaction counts towards that signer's share (T5).
+7. The window stands for 150 windows, so this transfer contributes about $892 × 150 to the 30-day total.
+
+## 7. Files
+
+**Raw sample** (`data/raw*/`):
+
+| File | Content |
+|---|---|
+| `sample_config.json` | Contract, API, end height, stratum and window sizes, seed |
+| `windows.jsonl` | One line per window: stratum `k`, first and last block, transaction hashes listed |
+| `sample_txs.jsonl.gz` | One line per transaction: `tx` hash, `h` block, `t` unix time, `signer`, `recv`, `ev` events, `k` stratum |
+
+**Public series** (`data/public/`): `defillama.json` (volume, fees, revenue, NEAR price), `tokens_1click.json`
+(asset list and prices), `prices_daily.json`, `intents_tx_counts.json` (exact daily counts, 45 days),
+`intents_tx_counts_long.json` (exact daily counts, 180 days), `peers.json`, `market.json`,
+`treasury_balance.json`.
+
+**Derived** (`data/derived/numbers.json`), top-level keys:
+
+| Key | Content |
+|---|---|
+| `generated_from` | Windows, transactions, dates, price coverage, bootstrap draws |
+| `totals_per_day` | Transactions, transfers, deposits, withdrawals per day, with intervals |
+| `reconciliation` | Sample against published volume and exact counts (T1) |
+| `chains`, `assets` | Deposits and withdrawals by chain; assets and stablecoin share (T2, T3) |
+| `ledger`, `standing` | Senders, receivers, the either-side share, accounts seen in many windows (T4) |
+| `access` | Signers and the top-five share (T5) |
+| `confidential` | Shield, unshield, shielders, share against open swaps |
+| `switch` | Break date, before and after figures, bootstrap range |
+| `sizes`, `referrals`, `timing` | Transfer sizes, referral tags, hour and weekday pattern |
+| `daily`, `monthly`, `public`, `lead` | Daily and monthly series, published figures (T6), correlations |
+| `robustness` | Every test under every sample and sensitivity run, plus pooled rows |
+
+## 8. Known weaknesses
+
+- **Thirty days.** Nothing here speaks to seasonality or long-run trends in the on-chain structure.
+- **Heavy tails.** Transfers of $100K or more carry about half of the value. Value shares therefore have wide
+  intervals, and one sampled whale can move a daily figure a lot.
+- **Cluster effect.** Transactions in one window are not independent; the window bootstrap accounts for this,
+  but 40 blocks is a short window.
+- **Prices.** Daily prices ignore intraday moves. Ten assets fall back to a list price.
+- **Identification.** One account is identified from documentation. All others are described by behaviour.
+- **Outside view of the confidential side.** We see the boundary, not the private contract.
+- **Not run.** The BigQuery queries in `sql/` were written but not executed.
