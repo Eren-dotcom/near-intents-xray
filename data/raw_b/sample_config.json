@@ -1,0 +1,9 @@
+{
+ "contract": "intents.near",
+ "api": "https://tx.main.fastnear.com/v0",
+ "end_height": 224510585,
+ "stratum_blocks": 12000,
+ "n_strata": 360,
+ "window_blocks": 40,
+ "seed": 777
+}
