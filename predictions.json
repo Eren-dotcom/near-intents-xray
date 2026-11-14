@@ -1,0 +1,52 @@
+{
+ "registered": "2026-11-14",
+ "horizon": "2026-12-14",
+ "rule": "Each prediction is checked against every daily tracker row dated AFTER the registration day (data/history/tracker.jsonl). A prediction is met on a day when that row's point estimate satisfies the rule. On the horizon date it is graded 'held' if it was met on at least 80% of tracked days, otherwise 'failed'. The registration-day row is shown as the baseline and is not scored, because it was visible when these were written.",
+ "predictions": [
+  {
+   "id": "P1",
+   "claim": "Access stays closed: the five busiest signers keep submitting at least 90% of transactions",
+   "metric": "T5",
+   "rule": "at_least",
+   "threshold": 0.9,
+   "kind": "share",
+   "if_wrong": "Relayer access is opening up. The main structural objection in this thesis weakens."
+  },
+  {
+   "id": "P2",
+   "claim": "The move to confidential settlement is permanent: at least 90% of visibly settled value is shielded",
+   "metric": "shield_vs_public",
+   "rule": "at_least",
+   "threshold": 0.9,
+   "kind": "share",
+   "if_wrong": "The collapse of public swaps was temporary, and the audit gap is smaller than we say."
+  },
+  {
+   "id": "P3",
+   "claim": "NEAR's take stays under 5 bps of published volume, measured over the trailing 30 days",
+   "metric": "T6_bps_30d",
+   "rule": "below",
+   "threshold": 5,
+   "kind": "bps",
+   "if_wrong": "Value capture is improving. The second structural objection weakens."
+  },
+  {
+   "id": "P4",
+   "claim": "It remains a dollar rail: stablecoins stay above half of the value moved",
+   "metric": "T3",
+   "rule": "above",
+   "threshold": 0.5,
+   "kind": "share",
+   "if_wrong": "The flow is turning speculative, and the demand case needs rewriting."
+  },
+  {
+   "id": "P5",
+   "claim": "Demand persists: published volume stays at or above $100M a day",
+   "metric": "published_volume_last_full_day",
+   "rule": "at_least",
+   "threshold": 100000000,
+   "kind": "usd",
+   "if_wrong": "The volume was a one-month spike, and the bull case falls."
+  }
+ ]
+}

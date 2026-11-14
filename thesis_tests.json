@@ -1,0 +1,17 @@
+{
+ "_comment": "Pre-registered pass/fail rules. build_report.py reads these; change a threshold and every verdict on the dashboard and in THESIS.md is recomputed. A test is 'supported' or 'contradicted' only when the whole 95% interval is on one side of the threshold, otherwise 'inconclusive'. For the 'between' rule the whole interval must lie inside the band to be 'supported' and wholly outside to be 'contradicted'. Thresholds were fixed after a 6-window pilot and before the full sample was drawn; they were not changed afterwards.",
+ "tests": [
+  {"id": "T1", "claim": "The published volume is real: value entering the contract on-chain matches it",
+   "metric": "reconciliation.deposit_over_published", "rule": "between", "low": 0.5, "high": 2.0},
+  {"id": "T2", "claim": "Demand is multi-chain: no single chain supplies half of the deposits",
+   "metric": "chains.deposits.0.share", "rule": "below", "threshold": 0.5},
+  {"id": "T3", "claim": "It is a dollar rail: stablecoins are most of the value moved",
+   "metric": "assets.stable_share", "rule": "above", "threshold": 0.5},
+  {"id": "T4", "claim": "Settlement is NOT concentrated: no single account sends half of the value",
+   "metric": "ledger.top1_sender_share", "rule": "below", "threshold": 0.5},
+  {"id": "T5", "claim": "Access is NOT concentrated: the five busiest signers submit under 90% of transactions",
+   "metric": "access.top5_signer_share", "rule": "below", "threshold": 0.9},
+  {"id": "T6", "claim": "NEAR captures value: revenue is at least 5 bps of volume (30 days)",
+   "metric": "public.rev_bps_30d", "rule": "above", "threshold": 5.0}
+ ]
+}
