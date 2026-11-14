@@ -1,1 +1,45 @@
-IyBTb3VyY2VzCgpFdmVyeSBleHRlcm5hbCBzb3VyY2UgdGhlIHByb2plY3QgdXNlcywgd2hhdCBpdCBpcyB1c2VkIGZvciwgYW5kIGhvdyB0byBjaGVjayBpdC4gQWxsIHdlcmUgYWNjZXNzZWQgb24KMTQgTm92ZW1iZXIgMjAyNi4KCiMjIERhdGEKCnwgU291cmNlIHwgRW5kcG9pbnQgfCBVc2VkIGZvciB8IEtleSBuZWVkZWQgfAp8LS0tfC0tLXwtLS18LS0tfAp8IEZhc3RORUFSIHRyYW5zYWN0aW9ucyBBUEkgfCBgaHR0cHM6Ly90eC5tYWluLmZhc3RuZWFyLmNvbS92MC9hY2NvdW50YCwgYC92MC90cmFuc2FjdGlvbnNgIHwgTGlzdGluZyBhbmQgZG93bmxvYWRpbmcgZXZlcnkgc2FtcGxlZCB0cmFuc2FjdGlvbjsgZXhhY3QgZGFpbHkgdHJhbnNhY3Rpb24gY291bnRzIHwgTm8gKGFib3V0IDYwIHJlcXVlc3RzIGEgbWludXRlKSB8CnwgTkVBUiBSUEMgfCBgaHR0cHM6Ly9ycGMubWFpbm5ldC5mYXN0bmVhci5jb21gLCBgaHR0cHM6Ly9ycGMubWFpbm5ldC5uZWFyLm9yZ2AgKGBtdF9iYXRjaF9iYWxhbmNlX29mYCBvbiBgaW50ZW50cy5uZWFyYCkgfCBUaGUgdHJlYXN1cnkncyBob2xkaW5ncyBhdCBvbmUgYmxvY2sgfCBObyB8CnwgMUNsaWNrIHRva2VuIGxpc3QgfCBgaHR0cHM6Ly8xY2xpY2suY2hhaW5kZWZ1c2VyLmNvbS92MC90b2tlbnNgIHwgQXNzZXQgaWRzLCBjaGFpbnMsIGRlY2ltYWxzLCBsaXN0IHByaWNlcyB8IE5vIHwKfCBEZWZpTGxhbWEgcHJvdG9jb2wgc3VtbWFyaWVzIHwgYGh0dHBzOi8vYXBpLmxsYW1hLmZpL3N1bW1hcnkvZGV4cy9uZWFyLWludGVudHNgLCBgL3N1bW1hcnkvZmVlcy9uZWFyLWludGVudHNgIHwgUHVibGlzaGVkIGRhaWx5IHZvbHVtZSwgZmVlcyBhbmQgcmV2ZW51ZSAoVDEsIFQ2KSB8IE5vIHwKfCBEZWZpTGxhbWEgb3ZlcnZpZXdzIHwgYGh0dHBzOi8vYXBpLmxsYW1hLmZpL292ZXJ2aWV3L2RleHNgLCBgL292ZXJ2aWV3L2ZlZXNgIHwgMzAtZGF5IHRvdGFscyBmb3IgcGVlciB2ZW51ZXMgfCBObyB8CnwgRGVmaUxsYW1hIHByaWNlcyB8IGBodHRwczovL2NvaW5zLmxsYW1hLmZpL2NoYXJ0L+KApmAsIGAvcHJpY2VzL2N1cnJlbnQv4oCmYCB8IERhaWx5IFVTRCBwcmljZXMgb2YgZXZlcnkgbGlzdGVkIGFzc2V0OyBORUFSIHByaWNlIHwgTm8gfAp8IENvaW5HZWNrbyB8IGBodHRwczovL2FwaS5jb2luZ2Vja28uY29tL2FwaS92My9jb2lucy9uZWFyYCB8IE5FQVIgbWFya2V0IHZhbHVlIHwgTm8gfAp8IEdvb2dsZSBCaWdRdWVyeSB8IGBiaWdxdWVyeS1wdWJsaWMtZGF0YS5jcnlwdG9fbmVhcl9tYWlubmV0X3VzYCB8IENyb3NzLWNoZWNrIHF1ZXJpZXMgaW4gYHNxbC9gICh3cml0dGVuLCBub3QgcnVuKSB8IEdvb2dsZSBDbG91ZCBwcm9qZWN0IHwKCkRlZmlMbGFtYSdzIE5FQVIgSW50ZW50cyB2b2x1bWUgaXMgcmVhZCBieSBpdHMgYWRhcHRlciBmcm9tIE5FQVIncyBEdW5lIGRhdGFzZXQKYGR1bmUubmVhci5kYXRhc2V0X25lYXJfaW50ZW50c19tZXRyaWNzYDsgd2UgZGlkIG5vdCBxdWVyeSBEdW5lIGRpcmVjdGx5LgoKIyMgRG9jdW1lbnRhdGlvbiBhbmQgcmVmZXJlbmNlcwoKfCBSZWZlcmVuY2UgfCBXaGF0IHdlIHRvb2sgZnJvbSBpdCB8CnwtLS18LS0tfAp8IE5FQVIgSW50ZW50cyBkb2NzLCBtYXJrZXQtbWFrZXIgY29uZmlkZW50aWFsIGV4YW1wbGU6IGBodHRwczovL2RvY3MubmVhci1pbnRlbnRzLm9yZy9pbnRlZ3JhdGlvbi9tYXJrZXQtbWFrZXJzL2NvbmZpZGVudGlhbC1leGFtcGxlYCB8IFRoZSB0cmVhc3VyeSBhY2NvdW50IGlkIChgUFJJVkFURV9UUkVBU1VSWV9BQ0NPVU5UX0lEYCwgIlRyZWFzdXJ5IGFjY291bnQgZm9yIGFzc2V0IHdyYXBwaW5nIiksIHRoZSBwcml2YXRlIGNvbnRyYWN0IGBpbnRlbnRzLmZhcmAsIGFuZCB0aGUgZGVzY3JpcHRpb24gb2Ygc2hpZWxkLCBzd2FwIGFuZCByZWNvdmVyIHwKfCBORUFSIEludGVudHMgZG9jcywgY29uZmlkZW50aWFsIGludGVudHMgb3ZlcnZpZXc6IGBodHRwczovL2RvY3MubmVhci1pbnRlbnRzLm9yZy9pbnRlZ3JhdGlvbi9tYXJrZXQtbWFrZXJzL2NvbmZpZGVudGlhbC1pbnRlbnRzYCB8IEJhY2tncm91bmQgb24gdGhlIGNvbmZpZGVudGlhbCBkZXNpZ24gfAp8IEdpdEh1YiBgbmVhci9pbnRlbnRzYCwgaXNzdWVzICMzODMgYW5kICMzODQgKE9jdG9iZXIgMjAyNikgfCBDb25maXJtYXRpb24gdGhhdCB0aGUgYWNjb3VudCBpcyB0aGUgQ29uZmlkZW50aWFsIEludGVudHMgVHJlYXN1cnkgYW5kIHRoYXQgb3V0Zmxvd3Mgc2hvdWxkIG5vdCBiZSBtYXRjaGVkIHRvIGRlcG9zaXRzIHwKfCBORUFSIEhhY2thdGhvbiB0aGVzaXMgcHJvbXB0OiBgaHR0cHM6Ly9naXRodWIuY29tL25lYXJhaS9uZWFyLWhhY2thdGhvbi1wcm9tcHQtZXhhbXBsZXMvYmxvYi9tYWluL3RyYWNrcy8wMi10aGVzaXMubWRgIHwgVGhlIGJyaWVmIHRoaXMgcHJvamVjdCBhbnN3ZXJzIHwKfCBORUFSIEhhY2thdGhvbiBydWxlczogYGh0dHBzOi8vbmVhcmhhY2thdGhvbi5jb20vSEFDS0FUSE9OLm1kYCB8IFN1Ym1pc3Npb24gYW5kIHJlcHJvZHVjaWJpbGl0eSByZXF1aXJlbWVudHMgfAoKIyMgV2hhdCB3ZSBjb3VsZCBub3QgdXNlCgp8IFNvdXJjZSB8IFdoeSBub3QgfAp8LS0tfC0tLXwKfCBORUFSIEludGVudHMgRXhwbG9yZXIgQVBJIHwgUmVxdWlyZXMgYSBwYXJ0bmVyIHRva2VuIHwKfCBGYXN0TkVBUiBibG9jay1kYXRhIHNlcnZpY2UgKG5lYXJkYXRhKSB8IFJhdGUtbGltaXRlZCBmb3IgdGhlIHdob2xlIGJ1aWxkIHwKfCBQdWJsaWMgYXJjaGl2YWwgUlBDcyB8IEhpc3RvcmljIGJsb2NrcyBub3Qgc2VydmVkIHdpdGhvdXQgYSBrZXkgfAp8IEJpZ1F1ZXJ5IHwgTm8gYmlsbGluZyBwcm9qZWN0IGF2YWlsYWJsZSBmcm9tIHRoZSBidWlsZCBlbnZpcm9ubWVudCB8CgojIyBPdGhlciB0aGVzZXMgb24gdGhlIHNhbWUgc3ViamVjdAoKV2UgcmVhZCBmaXZlIG90aGVyIGhhY2thdGhvbiBlbnRyaWVzIG9uIE5FQVIncyBpbnZlc3RtZW50IGNhc2UgYmVmb3JlIGNob29zaW5nIHRoaXMgYW5nbGUuIFRoZXkgdXNlCkRlZmlMbGFtYSBhZ2dyZWdhdGVzLCBCaWdRdWVyeSB0cmFuc2FjdGlvbiBjb3VudHMsIGlzc3VhbmNlIG1vZGVscyBvciBwcmljZSBjb3JyZWxhdGlvbnMuIE5vbmUgcmVwb3J0cwphY2NvdW50LWxldmVsIGRhdGEgZnJvbSB0aGUgSW50ZW50cyBjb250cmFjdCwgd2hpY2ggaXMgdGhlIGdhcCB0aGlzIHByb2plY3QgZmlsbHMuCg==
+# Sources
+
+Every external source the project uses, what it is used for, and how to check it. All were accessed on
+14 November 2026.
+
+## Data
+
+| Source | Endpoint | Used for | Key needed |
+|---|---|---|---|
+| FastNEAR transactions API | `https://tx.main.fastnear.com/v0/account`, `/v0/transactions` | Listing and downloading every sampled transaction; exact daily transaction counts | No (about 60 requests a minute) |
+| NEAR RPC | `https://rpc.mainnet.fastnear.com`, `https://rpc.mainnet.near.org` (`mt_batch_balance_of` on `intents.near`) | The treasury's holdings at one block | No |
+| 1Click token list | `https://1click.chaindefuser.com/v0/tokens` | Asset ids, chains, decimals, list prices | No |
+| DefiLlama protocol summaries | `https://api.llama.fi/summary/dexs/near-intents`, `/summary/fees/near-intents` | Published daily volume, fees and revenue (T1, T6) | No |
+| DefiLlama overviews | `https://api.llama.fi/overview/dexs`, `/overview/fees` | 30-day totals for peer venues | No |
+| DefiLlama prices | `https://coins.llama.fi/chart/…`, `/prices/current/…` | Daily USD prices of every listed asset; NEAR price | No |
+| CoinGecko | `https://api.coingecko.com/api/v3/coins/near` | NEAR market value | No |
+| Google BigQuery | `bigquery-public-data.crypto_near_mainnet_us` | Cross-check queries in `sql/` (written, not run) | Google Cloud project |
+
+DefiLlama's NEAR Intents volume is read by its adapter from NEAR's Dune dataset
+`dune.near.dataset_near_intents_metrics`; we did not query Dune directly.
+
+## Documentation and references
+
+| Reference | What we took from it |
+|---|---|
+| NEAR Intents docs, market-maker confidential example: `https://docs.near-intents.org/integration/market-makers/confidential-example` | The treasury account id (`PRIVATE_TREASURY_ACCOUNT_ID`, "Treasury account for asset wrapping"), the private contract `intents.far`, and the description of shield, swap and recover |
+| NEAR Intents docs, confidential intents overview: `https://docs.near-intents.org/integration/market-makers/confidential-intents` | Background on the confidential design |
+| GitHub `near/intents`, issues #383 and #384 (October 2026) | Confirmation that the account is the Confidential Intents Treasury and that outflows should not be matched to deposits |
+| NEAR Hackathon thesis prompt: `https://github.com/nearai/near-hackathon-prompt-examples/blob/main/tracks/02-thesis.md` | The brief this project answers |
+| NEAR Hackathon rules: `https://nearhackathon.com/HACKATHON.md` | Submission and reproducibility requirements |
+
+## What we could not use
+
+| Source | Why not |
+|---|---|
+| NEAR Intents Explorer API | Requires a partner token |
+| FastNEAR block-data service (neardata) | Rate-limited for the whole build |
+| Public archival RPCs | Historic blocks not served without a key |
+| BigQuery | No billing project available from the build environment |
+
+## Other theses on the same subject
+
+We read five other hackathon entries on NEAR's investment case before choosing this angle. They use
+DefiLlama aggregates, BigQuery transaction counts, issuance models or price correlations. None reports
+account-level data from the Intents contract, which is the gap this project fills.
