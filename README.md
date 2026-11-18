@@ -63,7 +63,7 @@ A reproducible measurement of the contract itself:
 
 **The finding we did not expect.** The account at the centre of the public ledger is the Confidential Intents Treasury, named in NEAR's own documentation (https://docs.near-intents.org/integration/market-makers/confidential-example). About $85M a day is shielded into Confidential Intents ($59M to $116M), in roughly 30,695 transfers a day. Swaps that settle in the open on the public contract come to about $27M a day. So of the value we can see being settled either way, 77.6% (95% CI 71.5% to 83.7%) goes to the confidential side (two samples pooled). In the main sample the share was 59% in the earlier 15 days and 88% in the later 15. The swap itself then executes against a separate private contract, so outsiders can count what goes in and out but not what happens inside.
 
-Main sample: 720 windows, 22,323 transactions; replication sample: 360 windows, 11,284 transactions; 2026-10-16 to 2026-11-14. Built 2026-11-17 11:54 UTC.
+Main sample: 720 windows, 22,323 transactions; replication sample: 360 windows, 11,284 transactions; 2026-10-16 to 2026-11-14. Built 2026-11-18 11:43 UTC.
 <!--/RESULTS-->
 
 ## Try it (for judges)
