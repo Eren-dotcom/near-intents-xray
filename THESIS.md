@@ -156,11 +156,11 @@ Each prediction is checked against every daily tracker row dated AFTER the regis
 
 | | Prediction | Met when | Baseline | Days met | Status | If we are wrong |
 | --- | --- | --- | --- | --- | --- | --- |
-| P1 | Access stays closed: the five busiest signers keep submitting at least 90% of transactions | ≥ 90.0% | 98.4% | 12 of 12 days | on track | Relayer access is opening up. The main structural objection in this thesis weakens. |
-| P2 | The move to confidential settlement is permanent: at least 90% of visibly settled value is shielded | ≥ 90.0% | 99.7% | 10 of 12 days | on track | The collapse of public swaps was temporary, and the audit gap is smaller than we say. |
-| P3 | NEAR's take stays under 5 bps of published volume, measured over the trailing 30 days | < 5.0 bps | 4.9 bps | 12 of 12 days | on track | Value capture is improving. The second structural objection weakens. |
-| P4 | It remains a dollar rail: stablecoins stay above half of the value moved | > 50.0% | 58.4% | 11 of 12 days | on track | The flow is turning speculative, and the demand case needs rewriting. |
-| P5 | Demand persists: published volume stays at or above $100M a day | ≥ $100M | $176M | 11 of 12 days | on track | The volume was a one-month spike, and the bull case falls. |
+| P1 | Access stays closed: the five busiest signers keep submitting at least 90% of transactions | ≥ 90.0% | 98.4% | 13 of 13 days | on track | Relayer access is opening up. The main structural objection in this thesis weakens. |
+| P2 | The move to confidential settlement is permanent: at least 90% of visibly settled value is shielded | ≥ 90.0% | 99.7% | 11 of 13 days | on track | The collapse of public swaps was temporary, and the audit gap is smaller than we say. |
+| P3 | NEAR's take stays under 5 bps of published volume, measured over the trailing 30 days | < 5.0 bps | 4.9 bps | 13 of 13 days | on track | Value capture is improving. The second structural objection weakens. |
+| P4 | It remains a dollar rail: stablecoins stay above half of the value moved | > 50.0% | 58.4% | 12 of 13 days | on track | The flow is turning speculative, and the demand case needs rewriting. |
+| P5 | Demand persists: published volume stays at or above $100M a day | ≥ $100M | $176M | 12 of 13 days | on track | The volume was a one-month spike, and the bull case falls. |
 
 ## What would change our mind
 
